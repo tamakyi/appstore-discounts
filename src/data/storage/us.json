@@ -97264,6 +97264,16 @@
     "history": [
       [
         {
+          "timestamp": 1751778796470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751772104312,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -97642,6 +97652,16 @@
     "history": [
       [
         {
+          "timestamp": 1751778796470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751772104312,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -97745,6 +97765,16 @@
       "Diamonds": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751778796470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751772104312,
