@@ -22905,6 +22905,21 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "HK$ 32.00",
+            "Learn to Drive UK - 12 months": "HK$ 118.00",
+            "Learn to Drive UK - 3 months": "HK$ 88.00",
+            "Learn to Drive Unlimited": "HK$ 188.00",
+            "Learn to Drive UK - Unlimited": "HK$ 88.00",
+            "Learn to Drive UK - 3 month": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751465572280,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -26164,6 +26179,14 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751551965928,
           "price": 0,
           "formattedPrice": "免費",
@@ -28648,6 +28671,22 @@
       "119 Gems": "HK$ 488.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751811032625,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "13 Gems": "HK$ 58.00",
+            "150 Gems": "HK$ 588.00",
+            "6 Gems": "HK$ 32.00",
+            "1 Gem": "HK$ 8.00",
+            "48 Gems": "HK$ 228.00",
+            "74 Gems": "HK$ 328.00",
+            "28 Gems": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751494335378,
@@ -33546,6 +33585,23 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "1元礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00",
+            "成长基金": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1751808153966,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -34415,6 +34471,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751811032625,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "225,000 points": "HK$ 88.00",
+            "63,000 points": "HK$ 22.00",
+            "25,000 points": "HK$ 8.00",
+            "176,000 points": "HK$ 58.00",
+            "345,000 points": "HK$ 118.00",
+            "100,000 points": "HK$ 22.00",
+            "850,000 points": "HK$ 118.00",
+            "2,160,000 points": "HK$ 588.00",
+            "20,000 points": "HK$ 8.00",
+            "500,000 points": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1751808153966,
           "price": 2,
@@ -37915,6 +37988,23 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "一筆鑽石": "HK$ 38.00",
+            "一大袋鑽石": "HK$ 148.00",
+            "僱傭超能少年": "HK$ 18.00",
+            "促銷禮包3": "HK$ 58.00",
+            "一小袋鑽石": "HK$ 88.00",
+            "1代套裝(3星)": "HK$ 18.00",
+            "雙倍獎勵": "HK$ 18.00",
+            "100鑽石": "HK$ 8.00",
+            "促銷禮包2": "HK$ 38.00",
+            "一箱鑽石": "HK$ 388.00"
+          }
+        },
+        {
           "timestamp": 1751808153966,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -38683,6 +38773,25 @@
       "喚生石8400個": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751811032625,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "功能禮包": "HK$ 32.00",
+            "自動禮包": "HK$ 128.00",
+            "綜合禮包": "HK$ 128.00",
+            "寶石300個": "HK$ 32.00",
+            "戒指禮包": "HK$ 188.00",
+            "地獄禮包": "HK$ 188.00",
+            "寶石180個": "HK$ 22.00",
+            "魔法禮包": "HK$ 68.00",
+            "魅魔禮包": "HK$ 328.00",
+            "寶石660個": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751551965928,
@@ -41939,6 +42048,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751811032625,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Miku": "HK$ 88.00",
+            "ConneR": "HK$ 88.00",
+            "CAPSO": "HK$ 88.00",
+            "Xenon": "HK$ 88.00",
+            "9 Characters": "HK$ 288.00",
+            "Cherry": "HK$ 88.00",
+            "Kizuna AI": "HK$ 88.00",
+            "Battle CHAOS 2019": "HK$ 38.00",
+            "Neko": "HK$ 88.00",
+            "Alice": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1751808153966,
           "price": 18,
@@ -45200,6 +45326,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751811032625,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_3": "HK$ 163.00",
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "cyTus": "HK$ 48.00",
+            "喵宇宙！": "HK$ 28.00"
+          }
+        },
         {
           "timestamp": 1751776024555,
           "price": 3,
@@ -52795,6 +52938,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751811032625,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "UPGRADE PRO VERSION": "HK$ 488.00",
+            "UPGRADE PRO": "HK$ 288.00",
+            "KODAK SERIES FILM": "HK$ 48.00",
+            "FUJI SERIES FILM": "HK$ 38.00",
+            "RETRO SERIES FILM": "HK$ 38.00",
+            "LOMO SERIES": "HK$ 38.00",
+            "WEDDING SERIES FILM": "HK$ 38.00",
+            "IU SERIES FILM": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1751808153966,
           "price": 32,
@@ -69400,6 +69558,14 @@
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751811032625,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751033553596,
@@ -86775,6 +86941,23 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00",
+            "Versatile 4WD 620": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1751808153966,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -93537,6 +93720,14 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1751782646029,
           "inAppPurchases": {}
         },
@@ -93957,6 +94148,14 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 118.00"
+          }
+        },
+        {
           "timestamp": 1751782646029,
           "inAppPurchases": {}
         },
@@ -94081,6 +94280,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751811032625,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1751785897719,
           "inAppPurchases": {}

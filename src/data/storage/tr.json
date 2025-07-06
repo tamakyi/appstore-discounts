@@ -895,6 +895,23 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "Tuning Tools": "₺449,99",
+            "Harmonic Tuning": "₺899,99",
+            "Guitar & Bass Sweeteners": "₺249,99",
+            "Extended Frequency Modes": "₺229,99",
+            "Keyboard Sweeteners": "₺899,99",
+            "Full Discounted Upgrade Pack": "₺2.499,99",
+            "World Sweetener Pack": "₺449,99",
+            "Steel Guitar Sweeteners": "₺699,99",
+            "Orchestral Sweeteners": "₺249,99",
+            "Misc Stringed Sweeteners": "₺179,99"
+          }
+        },
+        {
           "timestamp": 1751808153966,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -18838,6 +18855,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751811032625,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual (Early Bird)": "₺769,99",
+            "Monthly (Early Bird)": "₺129,00",
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Annual": "₺769,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Advanced Bonus Pack": "₺299,99",
+            "Cartful of Crystal": "₺999,99"
+          }
+        },
         {
           "timestamp": 1751808153966,
           "price": 0,

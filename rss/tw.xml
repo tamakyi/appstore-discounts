@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-07-06T01:30:16.634Z</updated>
+    <updated>2025-07-06T14:32:19.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T01:30:16.634Z</updated>
+        <updated>2025-07-06T14:32:19.007Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwSun, 06 Jul 2025 01:30:16 GMT</id>
+        <id>rankingtwSun, 06 Jul 2025 14:32:19 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T01:30:16.634Z</updated>
+        <updated>2025-07-06T14:32:19.007Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -239,7 +239,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id994157520">1942 Pacific Front Premium</a>
+        <a href="https://apps.apple.com/tw/app/id983143183">夢幻怪獸</a>
       </td>
       <td>
         <ul>
@@ -256,7 +256,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1041260001">FINAL FANTASY Ⅸ</a>
+        <a href="https://apps.apple.com/tw/app/id994157520">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -271,6 +271,23 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>
         <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id1041260001">FINAL FANTASY Ⅸ</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1055511498">Day One Journal</a>
@@ -293,7 +310,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1195035357">地牢防禦 : 勇士的侵入</a>
@@ -310,7 +327,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1264608487">Driving Zone: Germany Pro</a>
@@ -327,7 +344,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1271620263">ICEY</a>
@@ -344,7 +361,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1380582804">手機帝國</a>
@@ -361,7 +378,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1435461053">This Is the Police</a>
@@ -378,7 +395,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1439262206">Root Board Game</a>
@@ -407,7 +424,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1567658979">SkySafari 7 Pro</a>
@@ -424,7 +441,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1587301632">全能備忘錄</a>
@@ -441,7 +458,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1611723264">人類跌落夢境</a>
@@ -458,7 +475,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1614795077">Otaku's Adventure</a>
@@ -475,7 +492,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1633243177">Ableton Note</a>
@@ -492,7 +509,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1644917705">無處遁形：全網公敵</a>
@@ -509,7 +526,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -526,7 +543,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6746683191">VAKA No: 1937</a>
@@ -786,6 +803,81 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夢幻怪獸]]></title>
+        <id>夢幻怪獸-tw-1751811032625</id>
+        <link href="https://apps.apple.com/tw/app/%E5%A4%A2%E5%B9%BB%E6%80%AA%E7%8D%B8/id983143183?uo=4"/>
+        <updated>2025-07-06T14:10:32.625Z</updated>
+        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%A4%A2%E5%B9%BB%E6%80%AA%E7%8D%B8/id983143183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/42/c5/8642c5a8-38b8-9aea-75ac-8a1efaec0d36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$30.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $30.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    13 Gems：<b>$290.00</b>
+  </li><li>
+    6 Gems：<b>$120.00</b>
+  </li><li>
+    48 Gems：<b>$990.00</b>
+  </li><li>
+    1 Gem：<b>$30.00</b>
+  </li><li>
+    150 Gems：<b>$2,490.00</b>
+  </li><li>
+    74 Gems：<b>$1,290.00</b>
+  </li><li>
+    28 Gems：<b>$490.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  收服和養成超過2000隻以上的精美動畫後製完怪獸，成為傳說中的訓練師！並和世界各地的玩家PvP對戰！
+
+收服、訓練和養成超過2000隻怪獸，打造專屬於你的隊伍通往勝利之路！超大型的怪物對戰RPG手遊！
+
+夢幻怪獸是一款讓人欲罷不能的RPG手遊，主打四對四特殊回合制戰鬥，最多16隻怪獸組成一個隊伍。獨創對戰系統和上百種技能讓每一次戰鬥更加熱血和多元。終極進化你的怪獸，釋放它們的真正力量，主宰PvP賽場！您準備好進入夢幻怪獸的世界了嗎？
+
+▶遊戲特點:
+●  收集怪獸
+• 捕捉和養成1000隻以上的精美動畫後製怪獸！
+• 完成終極進化，釋放真正潛能。
+• 收集特殊素材，解放秘密技能！
+
+●  打造隊伍
+• 用16隻怪獸，研發終極隊伍。
+• 特殊回合制戰鬥，擊敗你的宿敵！
+• 超過100種怪獸技能，打出致命Combo！
+
+●  成為傳奇
+• 征服六個聯盟、挑戰至上四強。超過60個小時的冒險故事！
+• 探索六座島嶼和無數地下城！
+• 隨著劇情，揭發隱藏在百年帝國維羅希亞華麗外表下的黑歷史。
+
+●  Online對戰
+• 和來自世界各地的玩家PvP對戰！
+• 超過100支線上任務。
+• 參加每週特殊活動，贏得更多豐富獎勵！
+
+• 本遊戲內容涉及「性」、「暴力」，故建議應列級別為「輔導15歲級」。
+• 本遊戲內有提供購買虛擬貨幣、物品等付費服務。
+• 注意使用時間，避免沉迷於遊戲。
+
+官方臉書:
+https://www.facebook.com/NeoMonstersOfficial/
+官方論壇(英文):
+http://www.neomonstersforum.com/
+官方客服郵箱:
+neomonsupport.gameplay@zigzagame.net
+
+服務條款:
+https://www.zigzagame.com/terms/
+隱私政策:
+https://www.zigzagame.com/Privacy-Policy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grand Agent: It Call]]></title>
@@ -1272,239 +1364,6 @@ In this exciting battle, you will be surrounded by various monsters, but with yo
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/1e/99531ed3-bec8-86a5-1900-8fb6fb5049e2/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
 </a><h2>
   优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b><span></span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Diamonds：<b>$90.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  You will become a brave guardian and embark on an adventure to a shrine surrounded by monsters to help the Onmyoji dispel evil and liberate the trapped monster girl.
-
-The game adopts the classic horizontal version of the game. The character you control holds a weapon and stands in the center of the screen, advancing through the various scenes of the shrine as you operate. The road ahead is full of monsters that are malicious to you. They are lurking in the shadows or flying in the air, ready to attack you at any time. You need to keep firing bullets to repel these monsters and protect your way forward.
-
-In the process of moving forward, you can collect gold coins and various props floating in the air by controlling the character to jump upwards. Gold coins are an important resource in the game, which can be used to unlock more powerful weapons and upgrade your equipment. Props can provide you with immediate help, such as increasing the number of bullets, increasing the power of weapons, and obtaining a short invincible state. Reasonable use of these props will make you more calm when facing powerful monsters.
-
-As you continue to defeat monsters, the distance you travel will become longer and longer, and every corner of the shrine will be gradually liberated by you. Each level has a different scene setting, from the ancient shrine courtyard to the deep woods, to the mysterious basement, each scene has unique monsters and challenges waiting for you. You need to flexibly control the character, dodge the monster's attacks, and accurately fire bullets to eliminate the enemy.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地牢防禦 : 勇士的侵入]]></title>
-        <id>地牢防禦 : 勇士的侵入-tw-1751551965928</id>
-        <link href="https://apps.apple.com/tw/app/%E5%9C%B0%E7%89%A2%E9%98%B2%E7%A6%A6-%E5%8B%87%E5%A3%AB%E7%9A%84%E4%BE%B5%E5%85%A5/id1195035357?uo=4"/>
-        <updated>2025-07-03T14:12:45.928Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%9C%B0%E7%89%A2%E9%98%B2%E7%A6%A6-%E5%8B%87%E5%A3%AB%E7%9A%84%E4%BE%B5%E5%85%A5/id1195035357?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/6b/d5/f76bd577-b36b-02ff-d0f2-862c2f98907e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $30.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    功能禮包：<b>$120.00</b>
-  </li><li>
-    綜合禮包：<b>$490.00</b>
-  </li><li>
-    自動禮包：<b>$490.00</b>
-  </li><li>
-    魔法禮包：<b>$290.00</b>
-  </li><li>
-    戒指禮包：<b>$790.00</b>
-  </li><li>
-    寶石300個：<b>$120.00</b>
-  </li><li>
-    寶石180個：<b>$90.00</b>
-  </li><li>
-    寶石660個：<b>$290.00</b>
-  </li><li>
-    魅魔禮包：<b>$1,290.00</b>
-  </li><li>
-    覺醒禮包：<b>$1,290.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  GameCoaster你想一個有趣的遊戲，但小一開發商的第二個工作
-
-※ 最有可能引進
-遊戲以治療入侵者到來猛攻成為保護地牢守護者！
-盲目地扔你有武器，它必須以免攻擊地牢。
-級別和項目養殖，地牢重塑，從性能的保證，雅可怕的敵人當心！
-
-※ 故事
-拉什是世界上所有的怪物，以期佔領這個世界的最後一個地牢，
-勇敢和亨特，旨在保證這個怪物，放在幫助。
-為了保護地牢入侵者，你可以拿出已經堆成了一座武器。
-
-※ 遊戲特色
-◈請盡量記住復古的圖形和聲音的懷舊回憶。
-◈容易玩，任何人都可以很容易地享受。
-◈高興地屠殺敵人即將到來喉嚨按丈夫！它給人以強烈的打擊感和愉悅。
-◈請盡量協同作用，並使用武器的不同！
-◈準時提供一個新的擔保實現的結果！
-
--SUPPORT-
-E-Mail : support@gamecoaster.com
-Tel :+82 10-4178-0283
-
-@ GameCoaster
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/10/e7/ac10e7bc-e83d-feea-7d0a-f11690e66598/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/54/a8/1b/54a81bf6-1e47-ba3d-a89f-faedf6298117/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/50/a3/e650a373-8fa4-919e-7515-465416d28ad1/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9d/f6/d8/9df6d82d-73d3-b9e2-99ff-c2fa1818fbe6/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/de/db/2fdedb41-375a-d331-7ccf-e19f4c601f4a/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/3f/b2/893fb2b0-9fcc-7335-1832-f4e7fb694a19/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6b/60/82/6b6082ca-b644-a74b-ce37-8b0c09c4cd96/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/27/77/ed277789-aab0-e2b8-4366-c3ed9bb48e65/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/aa/03/25aa0304-79f8-e266-199f-024356ed7f56/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/6b/99/0f6b9963-aecf-e4e3-c538-88ac28741d8a/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DayCost Pro - Personal Finance]]></title>
-        <id>DayCost Pro - Personal Finance-tw-1751551965928</id>
-        <link href="https://apps.apple.com/tw/app/daycost-pro-personal-finance/id931188326?uo=4"/>
-        <updated>2025-07-03T14:12:45.928Z</updated>
-        <summary type="html"><![CDATA[价格: $90.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/daycost-pro-personal-finance/id931188326?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/51/6d/b4516d63-0c1f-388c-5319-59c9737f5d2d/ProAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$90.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $90.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  三秒記一筆！快速、安全、好用是我們的宗旨，更有 iOS 通知中心的Widget插件。
-
-看看其他人怎麼說：
-◎ 我本身係個要求高的人，但這個真的不錯！
-◎ 加密功能结合Touch ID功能就Very good了。
-◎ 簡潔明瞭的介面 操作方便。
-◎ 不管是APP跟Widget都很好上手。
-◎ 分类多样细致明确，操作方便快速。
-
-Apple Watch:
-您可以在 Apple Watch 中增加收支資料。在 Glance 中檢視您今日和本月的開支情況。
-
-特色功能：
-◎ 三秒速記：向下拉、填金額、選分類 
-◎ iOS 通知中心插件：iPhone鎖屏時也能輕鬆、快速地記賬
-◎ 密碼安全保護：除了您，任何人均無法開啟。即使雙擊Home鍵在App清單中也無法檢視資料
-◎ 支援 160 多種貨幣，更能自動更新換算匯率
-◎ 計算器：內建計算器，任何時候都無需先心算再輸入，她幫你輕鬆搞定
-◎ 全手勢操作：快速記賬的基礎
-◎ 人性化的新手引導：對於特別的操作，我們通過動畫 + 文字的方式引導，更直觀、更易懂
-◎ iCloud 備份和恢復
-◎ Dropbox 備份和恢復
-◎ 匯出資料至CSV
-◎ 經常性事件，無論是開支和收入，具有豐富的頻率選項。
-◎ 允許自定義主題顏色和牆紙
-◎ 允許從收支模板生成新的收支記錄
-
-基本功能：
-◎ 收支記錄可以加入照片
-◎ 收入、支出、轉賬，該有的都有
-◎ 多種圖形報表，讓您輕鬆檢視年/月/周的收支情況
-◎ 預算管理：給自己控制消費一個理由
-◎ 多種顏色主題及牆紙，讓您充分個性化
-◎ 自定義收支類別和消費賬戶，更符合您的需要
-◎ 同時支援 iPhone 和 iPad
-◎ 每日記賬提醒
-
-增強功能：
-◎ 通過手勢輕鬆複製歷史記錄，並自動將消費日期定位在當天，您只需要修改金額即可。當然，您也可以使用現有金額直接儲存
-◎ 帳單編輯時也可以新增收支類別和消費賬戶，更可以點選國旗更改當前消費的幣種
-
-如果您因為擔心記賬麻煩而放棄記賬
-如果您因為時間匆忙而放棄記賬
-如果您想知道自己的花銷在何處
-如果您想通過記賬來控制花銷，達到省錢的目的
-如果。。。
-
-試試我們的“天天記賬”吧，她會是您最佳的助理
-
-URL Schemes: DayCost://
-
-有任何建議或意見，請給我們來信：support@daycost.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/47/ac/3b/47ac3b2f-bf0d-c71f-2647-c5375caaaa80/mzl.vjbzqxph.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/c0/14/f4c014b0-e9d0-4a13-092c-a7d57ad12ca8/mzl.armakywa.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/6b/09/6f6b0982-1d37-3ff6-21f6-45f43795a332/mzl.iekscmyz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c7/f1/81/c7f18105-f916-0b92-ba36-c9a3eef65cfb/mzl.kwblwylx.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/47/d8/db/47d8dbc6-0a4e-6922-61b8-9a7821200963/mzl.ojcspgdl.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/ac/d8/1facd827-9212-38c0-da6a-cb4f2cd531a1/mzl.eetdtesr.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b7/f0/45/b7f045c8-4138-7cf7-62d3-c4b2b3509705/mzl.exsfidtx.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/44/90/f244900a-4fe0-8c70-2f55-422992800f5a/mzl.kstowaoq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/86/17/2d86170e-3f6b-e9b8-75da-60dce7d5fbb6/mzl.fggujkbp.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Agent: It Call]]></title>
-        <id>Grand Agent: It Call-tw-1751512525372</id>
-        <link href="https://apps.apple.com/tw/app/grand-agent-it-call/id6747758553?uo=4"/>
-        <updated>2025-07-03T03:15:25.372Z</updated>
-        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/grand-agent-it-call/id6747758553?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/be/7f/fabe7f07-f126-ec4e-8564-94b58834abf7/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$10.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $10.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Diamonds：<b>$490.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  In this exciting mobile game, you will become a legendary agent and embark on a secret operation codenamed "zero". Your mission is to sneak into the enemy's aircraft base and destroy all enemy aircraft. You will face many threats alone, but fortunately, you have a support aircraft to provide you with airdrop supplies.
-
-The gameplay of the game is simple but challenging. You will control the agent to move left and right on the runway of the aircraft base to avoid the attacks of enemy aircraft and the falling missiles. The top of the screen is the flight area of ​​​​the enemy aircraft, and they will continue to fire missiles at you in an attempt to shoot you down. You need to stay alert at all times to avoid these deadly threats.
-
-By clicking on the screen, you can fire into the sky and destroy enemy aircraft. There is also a "continuous shooting mode" in the game. After turning it on, you can continue to fire into the air and eliminate the enemy more efficiently. But be careful, once the enemy's missiles fall to the ground, they will cause great damage to you. You only have 3 chances to be hit. Once this number is exceeded, the game will end.
-
-During the battle, the support aircraft will regularly drop airdrops for you. These airdrops contain a variety of useful props, such as ammunition boxes for replenishing bullets, medical kits for restoring health, and upgrade props for strengthening missiles. Proper use of these airdrop props will help you gain an advantage in battle.
-
-As the game progresses, as long as you can hold on longer, you will get additional upgrade opportunities. Every upgrade will make you stronger, whether it is improving firepower, increasing health, or unlocking more powerful props, which can make you more confident when facing the enemy. The longer you hold on, the greater the benefits you will get. The ultimate goal is to defend yourself for as long as possible and destroy more enemy aircraft.
-
-This is a mini casual game that can start an exciting agent journey anytime, anywhere. Simple and easy-to-use operations, coupled with challenging gameplay, allow you to experience the thrill of exciting battles in fragmented time.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop&Get Away From Me! Defense]]></title>
-        <id>Stop&amp;Get Away From Me! Defense-tw-1751512525372</id>
-        <link href="https://apps.apple.com/tw/app/stop-get-away-from-me-defense/id6746355331?uo=4"/>
-        <updated>2025-07-03T03:15:25.372Z</updated>
-        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/stop-get-away-from-me-defense/id6746355331?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/50/8d/ae508d42-7f41-d35b-795c-540e0a4cd9cb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$10.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $20.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Diamonds：<b>$2,990.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  In a desolate wilderness, the atmosphere is tense. You are standing in an open area, and suddenly, a group of ferocious wolves surround you from all directions. Their eyes are flashing with greed, and they are approaching you step by step. At this critical moment, you must pick up the gun in your hand, react quickly, repel these monsters, and protect your life. This is a tense and exciting battle, and also a simple and relaxing casual mini game.
-
-### Gameplay
-
-#### Click the screen to fire
-The operation of the game is very simple. You only need to click the screen to control the character to shoot at the monster. The crosshairs on the screen will automatically aim at the approaching wolf. You only need to click the screen at the right time to fire bullets and repel the monster. This simple and intuitive operation method allows players to easily get started and quickly get into the game without complicated tutorials.
-
-#### Dynamic aiming and reaction
-Although the operation of the game is simple, the actions of the monsters are full of uncertainty. The wolves will attack you from different directions and angles. You need to stay alert at all times, react quickly, and click the screen accurately to effectively repel them. As the game progresses, the number of monsters will gradually increase, and their actions will become more cunning and rapid, which requires players to constantly improve their reaction speed and aiming accuracy.
-
-#### Easy restart, continuous challenge
-The game has a very fast pace. Once surrounded or hit by monsters, the game will end. But don't worry, the game provides an easy restart mechanism. You can restart the game with just a click and get back into this exciting battle. This fast restart mechanism allows players to try multiple times in a short period of time, constantly challenge their limits, and easily get the joy of the game.
-
-#### Unique and interesting painting style
-The game uses a unique art style. Although the picture is simple, it is full of fun and tension. The image design of the monsters is both scary and interesting, allowing players to feel a hint of humor in the tense battle. The scene design of the game is also very rich. From the barren wilderness to the abandoned town, each scene has its own unique atmosphere, making players feel as if they are in a real combat environment.
-
-#### Endless challenges and fun
-Every game is a new challenge. The action mode and number of monsters will be different, which requires players to constantly adjust their strategies and reactions. As the game progresses, you can also unlock new weapons and props to improve your combat effectiveness and better deal with more powerful monsters. This endless challenge and constantly improving gameplay allows players to immerse themselves in the game for a long time and enjoy the fun of shooting.
-
-In this exciting battle, you will be surrounded by various monsters, but with your courage and wisdom, you will be able to repel them and win. Come join this battle, experience simple and easy gameplay, and enjoy endless challenges and fun!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yōkai Retreat SP Yin Yang-Sama]]></title>
-        <id>Yōkai Retreat SP Yin Yang-Sama-tw-1751512525372</id>
-        <link href="https://apps.apple.com/tw/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4"/>
-        <updated>2025-07-03T03:15:25.372Z</updated>
-        <summary type="html"><![CDATA[价格: $320.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/1e/99531ed3-bec8-86a5-1900-8fb6fb5049e2/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$320.00</span> → <b>
   <strong>免費</strong>
 </b><span></span>）
 </h2><h2>全部价格信息</h2><p>

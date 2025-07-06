@@ -16775,6 +16775,14 @@
     "history": [
       [
         {
+          "timestamp": 1751811032625,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751551965928,
           "price": 0,
           "formattedPrice": "免费",
@@ -35316,6 +35324,25 @@
       "Touhou Mugakudan -IV-(30%)": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751811032625,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "新手上路包": "¥8.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "unlockall_0": "¥188.00",
+            "unlockall_3": "¥138.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751364857528,
