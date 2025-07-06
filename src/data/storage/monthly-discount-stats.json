@@ -610,6 +610,11 @@
         "150 Kredi": 1,
         "75 Credits": 1
       }
+    },
+    "6479307181": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "tr": {
@@ -773,6 +778,11 @@
       "inAppPurchase": {
         "Bundle": 1
       }
+    },
+    "6479307181": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }

@@ -85647,7 +85647,8 @@
       "軟軟": "HK$ 8.00",
       "點點": "HK$ 8.00",
       "Tuxedo Theme": "HK$ 8.00",
-      "每年": "HK$ 88.00"
+      "每年": "HK$ 88.00",
+      "每月": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -85669,9 +85670,29 @@
       "軟軟": "HK$ 8.00",
       "點點": "HK$ 8.00",
       "Tuxedo Theme": "HK$ 8.00",
-      "每年": "HK$ 88.00"
+      "每年": "HK$ 88.00",
+      "每月": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751785897719,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "每月": "HK$ 18.00",
+            "每年": "HK$ 88.00",
+            "招財": "HK$ 8.00",
+            "Blue Sky Theme": "HK$ 8.00",
+            "City Night Theme": "HK$ 8.00",
+            "辛巴": "HK$ 8.00",
+            "Calico Theme": "HK$ 8.00",
+            "Civet Theme": "HK$ 8.00",
+            "Siamese Theme": "HK$ 8.00",
+            "Orange Theme": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751191979116,
@@ -93921,6 +93942,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751785897719,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751764114687,
           "price": 0,

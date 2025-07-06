@@ -79695,6 +79695,14 @@
     "history": [
       [
         {
+          "timestamp": 1751785897719,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748661594314,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -90361,6 +90369,25 @@
       "Junkers Ju 52": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751785897719,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737-900": "$1.99",
+            "Global scenery - 3 months": "$6.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751710342644,
