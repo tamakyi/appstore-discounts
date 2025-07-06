@@ -93759,6 +93759,16 @@
     "history": [
       [
         {
+          "timestamp": 1751764114687,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751724709939,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -94157,6 +94167,16 @@
     "history": [
       [
         {
+          "timestamp": 1751764114687,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751724709939,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -94266,6 +94286,16 @@
       "Diamonds": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751764114687,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751724709939,

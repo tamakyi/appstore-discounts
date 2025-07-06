@@ -87691,6 +87691,25 @@
     "history": [
       [
         {
+          "timestamp": 1751764114687,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Europe Map": "$8.99",
+            "Nordic Bundle": "$7.99",
+            "LegendaryAsia Expansion Bundle": "$7.99",
+            "Japan Expansion Bundle": "$7.99",
+            "India Expansion Bundle": "$7.99",
+            "San Francisco Expansion Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751656216812,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -93146,6 +93165,25 @@
       "Season MLB 2002": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751764114687,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "175,000 PP for OOTP Go 26!": "$69.99",
+            "75,000 PP for OOTP Go 26!": "$34.99",
+            "25,000 PP for OOTP Go 26!": "$15.99",
+            "12,000 PP for OOTP Go 26!": "$7.99",
+            "1,000,000 PP for OOTP Go 26!": "$349.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "Season MLB 2024": "$0.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1993": "$0.99",
+            "Bundle MLB 2000s": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751635567609,
