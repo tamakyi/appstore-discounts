@@ -1455,6 +1455,25 @@
     "history": [
       [
         {
+          "timestamp": 1751808153966,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "HAA Link": "$320.00",
+            "HAA Pro Module": "$690.00",
+            "SPL Enhance": "$690.00",
+            "All-In Module Access": "$320.00",
+            "HAA Upgrade to Pro": "$13,000.00",
+            "HAA Pro Installer Calibration": "$15,000.00",
+            "HAA Home Theater": "$2,990.00",
+            "Unlock All Tier 5": "$7,990.00",
+            "Unlock All Tier 7": "$11,000.00",
+            "Unlock All Tier 4": "$6,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751537644424,
           "price": 690,
           "formattedPrice": "$690.00",
@@ -85224,6 +85243,25 @@
       "Grey Theme": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751808153966,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "軟軟": "$30.00",
+            "招財": "$30.00",
+            "City Night Theme": "$30.00",
+            "每月": "$60.00",
+            "小灰": "$30.00",
+            "每年": "$390.00",
+            "Calico Theme": "$30.00",
+            "Grey Theme": "$30.00",
+            "2025 Spring Forest Theme": "$30.00",
+            "2025 Spring Lawn Theme": "$50.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750899739699,

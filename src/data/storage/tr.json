@@ -895,6 +895,25 @@
     "history": [
       [
         {
+          "timestamp": 1751808153966,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "World Sweetener Pack": "₺449,99",
+            "Steel Guitar Sweeteners": "₺699,99",
+            "Orchestral Sweeteners": "₺249,99",
+            "Misc Stringed Sweeteners": "₺179,99",
+            "Keyboard Sweeteners": "₺899,99",
+            "Harp Sweeteners": "₺249,99",
+            "Harmonica Sweeteners": "₺449,99",
+            "Guitar & Bass Sweeteners": "₺249,99",
+            "Buzz Feiten Pack": "₺249,99",
+            "Extended Frequency Modes": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751735443907,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -18819,6 +18838,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751808153966,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99",
+            "Annual": "₺1.289,99",
+            "Monthly (Early Bird)": "₺129,00",
+            "Annual (Early Bird)": "₺769,99"
+          }
+        },
         {
           "timestamp": 1751753460826,
           "price": 0,
@@ -69700,6 +69735,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751808153966,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Global scenery - 12 months": "₺399,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "UH-60": "₺39,99",
+            "Boeing 747-400": "₺99,99",
+            "Concorde": "₺99,99"
+          }
+        },
         {
           "timestamp": 1751776024555,
           "price": 179.99,
