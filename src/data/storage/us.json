@@ -97264,6 +97264,10 @@
     "history": [
       [
         {
+          "timestamp": 1751782646029,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751778796470,
           "price": 0,
           "formattedPrice": "Free",
@@ -97652,6 +97656,10 @@
     "history": [
       [
         {
+          "timestamp": 1751782646029,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751778796470,
           "price": 0,
           "formattedPrice": "Free",
@@ -97766,6 +97774,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751782646029,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751778796470,
           "price": 0,

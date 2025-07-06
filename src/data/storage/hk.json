@@ -33546,6 +33546,23 @@
     "history": [
       [
         {
+          "timestamp": 1751782646029,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "1元礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00",
+            "成长基金": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1751778796470,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -93360,6 +93377,10 @@
     "history": [
       [
         {
+          "timestamp": 1751782646029,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751764114687,
           "price": 0,
           "formattedPrice": "免費",
@@ -93775,6 +93796,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751782646029,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751764114687,
           "price": 0,
