@@ -74244,6 +74244,14 @@
     "history": [
       [
         {
+          "timestamp": 1751772104312,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1751757119663,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -74821,6 +74829,14 @@
     "history": [
       [
         {
+          "timestamp": 1751772104312,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "₺699,99"
+          }
+        },
+        {
           "timestamp": 1751757119663,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -74925,6 +74941,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751772104312,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "₺699,99"
+          }
+        },
         {
           "timestamp": 1751757119663,
           "price": 9.99,

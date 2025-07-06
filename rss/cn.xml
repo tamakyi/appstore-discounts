@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-05T14:34:12.462Z</updated>
+    <updated>2025-07-06T03:43:12.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-05T14:34:12.464Z</updated>
+        <updated>2025-07-06T03:43:12.192Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 05 Jul 2025 14:34:12 GMT</id>
+        <id>rankingcnSun, 06 Jul 2025 03:43:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-05T14:34:12.464Z</updated>
+        <updated>2025-07-06T03:43:12.192Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -248,6 +248,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1595313870">瓦尔登 - 日程管理，一个就够</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>终身会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1633243177">Ableton Note</a>
       </td>
       <td>
@@ -262,7 +285,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
@@ -279,7 +302,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -302,7 +325,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -319,7 +342,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444396120">挺进地牢</a>
@@ -336,7 +359,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -353,7 +376,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767315">便利店开业日记</a>
@@ -370,7 +393,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
@@ -588,6 +611,90 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[瓦尔登 - 日程管理，一个就够]]></title>
+        <id>瓦尔登 - 日程管理，一个就够-cn-1751772104312</id>
+        <link href="https://apps.apple.com/cn/app/%E7%93%A6%E5%B0%94%E7%99%BB-%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86-%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F/id1595313870?uo=4"/>
+        <updated>2025-07-06T03:21:44.312Z</updated>
+        <summary type="html"><![CDATA[终身会员: ¥78.00 → ¥68.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%93%A6%E5%B0%94%E7%99%BB-%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86-%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F/id1595313870?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/36/33/b236337d-4100-acfe-a97b-2031d43c80a5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>终身会员：</strong><span>¥78.00</span> → <b>
+  <strong>¥68.00</strong>
+</b><span>[¥58.00 ~ ¥88.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    终身会员：<b>¥68.00</b>
+  </li><li>
+    年度会员：<b>¥28.00</b>
+  </li><li>
+    月度会员：<b>¥8.00</b>
+  </li><li>
+    季度会员：<b>¥18.00</b>
+  </li><li>
+    终身会员 - 教育版：<b>¥78.00</b>
+  </li><li>
+    年度会员升级终身会员：<b>¥78.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  瓦尔登 是一款专为个人打造的日程管理应用，它包含了待办事项，目标进度管理，以及笔记备忘录功能，得到了众多用户的喜爱，并且获得了 App Store 官方编辑推荐、PriceTag等知名自媒体的推荐，为了获得最佳体验，我们专门为 iPhone、iPad、Mac 做了适配，希望你会喜欢这款简洁却强大的应用。
+
+我们的用户群体覆盖十分广，无论你是学生还是上班族，都可以用 瓦尔登 来管理自己每天的工作学习日常，安排每天的工作任务，记录自己的目标，写下自己灵光乍现的想法，甚至，使用番茄钟专注当下。
+
+瓦尔登 不追求 All in One，只希望把精力都聚焦在核心功能上，始终把体验放在第一位，去除不必要的繁冗。
+
+-----------------
+※ 日历模块
+- 拥有精心打造的日历时间轴，可实现任务的自由拖拽调整，
+- 支持月视图显示
+- 支持同步系统自带 日历
+
+※ 任务中心（以 GTD 工作法为核心理念）
+- 普通模式下，显示 今日、明日、已过期 的任务列表，对最近的日程安排有一个大致的了解，聚焦当下的任务
+- 四象限模式，按任务的优先级分块显示，任务的轻重缓急清晰呈现，同时还提供了一套独创的优先级评估系统，帮助用户在安排任务时做到心中有数
+- 重复任务设置，支持基本的重复计划（每日、每周、每月），提前提醒，可设置任务截止日期
+- 检查清单（Checklist）和清单模版，可提供简单的任务处理流程
+- 任务标题日期时间可智能识别提取，效率满满
+- 收集箱（Inbox）功能，这是 GTD 方法论不可或缺的一环，记录一些还未决定何时安但可能会遗漏的任务或者想法
+- 内置 番茄钟，严格按照番茄工作法设计，支持灵动岛和实施活动，支持设置每日番茄目标、休息时间、任务，除此以外，还支持正计时功能，
+
+※ 目标进度
+- 支持目标量化，可设置目标分组，并且提供可视化进度展示（进度条&进度环），清晰追踪目标进度
+- 支持目标趋势图，可以回顾自己过去一段时间的目标进度变化
+- 支持目标进度笔记，可以记录实现目标过程中的一些想法和总结
+
+※ 闪念笔记（备忘录）
+- 碎片化笔记、日记记录、灵感记录
+- 支持文本、图片功能，融合自定义标签，支持全文搜索标签搜索
+- 支持笔记补录功能
+
+※ 小组件（锁屏小组件）
+- 支持今日待办、本周待办、月视图、四象限，目标趋势、闪念笔记、年进度等，并提供可交互功能，可直接在小组件勾选完成任务或者更新目标进度，效率进一步提升！
+
+※ 统计中心
+提供丰富的汇总数据、直观的图表，方便用户回顾和查询
+
+※ iCloud
+支持自动备份，跨设备数据同步
+
+※ 隐私保护
+支持 FaceID （指纹）解锁应用
+
+※ 其他
+无广告、无后台，免费用户友好，数据完全存储到本地和个人的 iCloud 账户，只有用户本人才可访问数据
+
+-----------------
+订阅说明
+确认订阅后将向您的 App Store 账户收取费用，订阅以年或月为计费周期。订阅服务将会在当前周期结束时自动续订并收取费用，取消自动续订需要在当前订阅周期结束 24 小时前完成。
+--用户条款：http://freelancer-x.com/app-terms/
+--隐私策略：http://freelancer-x.com/app-privacy-policy/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/7d/21/067d217e-523a-9dc8-bbbf-1e20fed1a9a9/211c2b8c-6d5f-4361-b501-542c5b3be63d_5.5-cn-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/35/3d/8c353d97-6a26-8935-adf2-3352324ce199/759fa999-3433-461b-80dd-abbe68ced2ac_5.5-cn-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/8a/15/c08a1551-5dd4-2c94-75a9-b5d060f5e706/f162d07f-be6d-4e43-bad2-ded4af144c3c_5.5-cn-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/3a/6b/533a6b58-27ba-b9fd-cff6-b3559a105882/93d650cd-c638-4e9e-b947-483653cd6b60_5.5-cn-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/76/72/4c/76724cf3-6f03-9b6c-3eb2-1de406d57d0f/8c8ca5c2-ef09-4f56-beab-203fbb70ae28_5.5-cn-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c9/a5/81/c9a58149-1c17-285d-8b29-5d3ba618cd80/677896da-7ab1-42ed-bf7c-2e0831417b03_5.5-cn-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/c4/5b/ffc45b6e-f257-22a6-dc93-132173efaa02/730c92c0-feac-4926-b49f-ad5a7359ea17_5.5-cn-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bb/e1/16/bbe1168b-2d01-1774-aa03-1a8b3a4a0cdc/d481083e-e31b-4e7d-8a83-e67cb595e15b_5.5-cn-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/96/92/3d969204-df6c-2282-92c3-3782d2d56d01/0c8c44c8-ff09-4614-b502-8253c802bc7c_12.9-cn-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/0f/c3/3d0fc301-b20a-97fe-06e4-aeb1513a56d8/98d7ed83-d79b-4af9-81b2-dc9496897a8c_12.9-cn-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1c/01/1b/1c011ba6-b88a-57a9-7cf2-1534f97e160f/fc1c6ca2-37be-4bc9-80fc-1cfa6b407b78_12.9-cn-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e4/4e/ae/e44eae6f-932f-fbb3-ada4-22a9ccfb1596/ed8c9439-8aad-45f2-b83a-b0a20e902d3c_12.9-cn-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/85/3e/e1/853ee1e6-c19a-ff9a-e327-dd42e903ef18/0f1e6a82-045d-4f63-97be-a4a999c9a15a_12.9-cn-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f3/77/7d/f3777de4-c648-0530-6a89-d57907185574/d8650961-b539-4bc3-82cc-7651b5d2a181_12.9-cn-statistic.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全能记(录音,备忘,流水)]]></title>
         <id>全能记(录音,备忘,流水)-cn-1751724709939</id>
         <link href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4"/>
@@ -736,76 +843,5 @@ URL Schemes: DayCost://
 
 有任何建议或意见，请给我们来信：support@daycost.com
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/86/eb/a5/86eba570-e20a-c722-7abb-a0a1051ebc6d/mzl.zohrlfie.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/49/c8/1249c81a-2b59-c713-29d2-ee6157b2d9c4/mzl.iydrsahs.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/53/20/295320a8-7334-1ab8-34b4-eafa7c93f8d0/mzl.vpuzijpt.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/23/dc/7b/23dc7bfe-d6c8-7ead-493a-a35271d7f6bf/mzl.afrpgmac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/d6/96/a3d69618-4317-7eba-c6f1-2f4b7700cb3b/mzl.sjlhtobj.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/0e/79/ec0e7927-daa4-9562-fefb-2708b53d1ce4/mzl.wydrhfwd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/39/45/7b394532-fa86-fe64-944f-858db98fe493/mzl.uanpsojf.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/a1/a8/dda1a844-417a-233c-f21a-6b80b9b55527/mzl.cvnykbxa.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bb/2e/68/bb2e68a7-ef8e-4e89-b530-aed32697a3d1/mzl.tflygrmy.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[便利店开业日记]]></title>
-        <id>便利店开业日记-cn-1751512525372</id>
-        <link href="https://apps.apple.com/cn/app/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BC%80%E4%B8%9A%E6%97%A5%E8%AE%B0/id6738767315?uo=4"/>
-        <updated>2025-07-03T03:15:25.372Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BC%80%E4%B8%9A%E6%97%A5%E8%AE%B0/id6738767315?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ab/9c/49ab9c76-3da8-2c12-7e39-a469a1f93d22/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥12.00</b>
-</p><h2>应用描述</h2><p>
-  《便利店开业日记》是一款模拟经营类游戏，你将化身店长，从经营一家丰富多彩的便利店开始。在游戏过程中，你需要设置货架、培养店员、服务顾客......快来打造最客流最高、最受欢迎的连锁便利店！
-
-【精心陈列，打造特色专柜!】
-研究商品搭配，精心打造人气货架。不断开发新商品，打造更多特色专柜吧！
-
-【精确经营，把握商品库存！】
-时刻关注货架情况，设置合理的补货数量，减少废弃率，实现利润最大化！
-
-【培养店员，赢得比赛优胜！】
-通过完成挑战提升店员各项能力，为客户提供更好的服务，同时冲击评选赛优胜！
-
-【满足顾客，获取丰厚回报！】
-分发试用商品，俘获顾客们的青睐。满足顾客心愿，培养店铺的忠实顾客！
-
-【开设分店，打造连锁品牌!】
-不断扩张规模，在新地区开设分店。击败本地对手，打造你的连锁便利店品牌！
-
-便利店里有 200 种以上不同的产品！ 我惊讶地发现，这里的商品比我想象的还要多： 饭团、炸饭团、甜点布丁......还有零食薯片......我去便利店的时候，总会忍不住买一堆计划外的东西。所以，如果你能打造出精美的商品货架，顾客肯定也会大量购买的。此外， 您还可以享受与竞争对手商店的销售战！
-
-——开罗君亲笔信
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[森丘露营地]]></title>
-        <id>森丘露营地-cn-1751512525372</id>
-        <link href="https://apps.apple.com/cn/app/%E6%A3%AE%E4%B8%98%E9%9C%B2%E8%90%A5%E5%9C%B0/id6738767322?uo=4"/>
-        <updated>2025-07-03T03:15:25.372Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%A3%AE%E4%B8%98%E9%9C%B2%E8%90%A5%E5%9C%B0/id6738767322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/eb/5b/86eb5b86-328a-c4b3-1314-8329f0dd7e99/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥12.00</b>
-</p><h2>应用描述</h2><p>
-  《森丘露营地》是一款模拟经营类游戏，你将化身露营地经营者，从露营地的精心布局到露营好物商店的建设。在游戏过程中，你需要围绕露营场地布置活动区域与自然景致、并不断创新吸引更多的露营爱好者，快来打造最美、最有趣的露营地！
-
-【布局仙人，打造氛围感露营地！】
-精心考虑布局，充分利用山丘的高低落差与随季节变换的植被，打造不照骗的打卡地！
-
-【捕虫&观鸟&钓鱼！顾客愿望一次满足！】
-在露营地周围设置丰富的活动区域，溪流乐钓、篝火烤肉，都不白来！
-
-【上架露营神器，引领露营潮流！】
-打造露营一站式服务！开发更多露营好物，引领露营界新潮流！
-
-【放置观看，感受小确幸】
-无需操作，放置观赏四季与昼夜变换带来的不同景色。感受超萌像素小人带来的治愈风景~
-
-我本身是个喜欢室内活动的人，但因为想体验一下户外的乐趣，所以制作了这款露营游戏。在自然环境中的开发画面感觉很棒，于是灵感一来，就创作出了许多露营用品。既然都做了，就设计成可以经营露营小商店。开发过程中吃了很多咖喱，味道很不错。
-
-——开罗君亲笔信
-</p>]]></content>
     </entry>
 </feed>
