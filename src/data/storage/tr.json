@@ -18340,6 +18340,21 @@
     "history": [
       [
         {
+          "timestamp": 1751843512148,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "₺129,99",
+            "Learn to Drive UK - 12 months": "₺599,99",
+            "Learn to Drive UK - 3 months": "₺499,99",
+            "Learn to Drive UK - Unlimited": "₺449,99",
+            "Learn to Drive UK - 3 month": "₺499,99",
+            "Learn to Drive Unlimited": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751497970464,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -21464,6 +21479,14 @@
     "history": [
       [
         {
+          "timestamp": 1751843512148,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751584339411,
           "price": 0,
           "formattedPrice": "Free",
@@ -23579,6 +23602,22 @@
       "119 Gems": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751843512148,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "13 Gems": "₺349,99",
+            "1 Gem": "₺39,99",
+            "6 Gems": "₺179,99",
+            "48 Gems": "₺1.299,99",
+            "74 Gems": "₺1.999,99",
+            "150 Gems": "₺3.499,99",
+            "28 Gems": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749769958859,
@@ -31672,6 +31711,25 @@
     "history": [
       [
         {
+          "timestamp": 1751843512148,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Feature Package": "₺179,99",
+            "Element Package": "₺699,99",
+            "Automatic Package": "₺699,99",
+            "Element EXP increase": "₺399,99",
+            "Rebirth EXP increase": "₺399,99",
+            "Rebirth Package": "₺1.999,99",
+            "12000 Rubies": "₺3.999,99",
+            "50000 Rebirth Stones": "₺3.999,99",
+            "250 Hell Stones": "₺1.999,99",
+            "120 Hell Stones": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751584339411,
           "price": 0,
           "formattedPrice": "Free",
@@ -37635,6 +37693,25 @@
       "Nyanya Universe!": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751843512148,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "unlockall_17": "₺699,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Nyanya Universe!": "₺179,99",
+            "Touhou Mugakudan -Ⅱ-": "₺179,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751689061971,
@@ -56703,6 +56780,14 @@
     "history": [
       [
         {
+          "timestamp": 1751843512148,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751065953740,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -74466,6 +74551,16 @@
     "history": [
       [
         {
+          "timestamp": 1751843512148,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Diamonds": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751782646029,
           "inAppPurchases": {}
         },
@@ -75055,6 +75150,16 @@
     "history": [
       [
         {
+          "timestamp": 1751843512148,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Diamonds": "₺699,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751782646029,
           "inAppPurchases": {}
         },
@@ -75170,6 +75275,16 @@
       "Diamonds": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751843512148,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Diamonds": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751782646029,
