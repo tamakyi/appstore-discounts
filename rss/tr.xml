@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-06T03:43:12.206Z</updated>
+    <updated>2025-07-06T04:49:13.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T03:43:12.206Z</updated>
+        <updated>2025-07-06T04:49:13.522Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrSun, 06 Jul 2025 03:43:12 GMT</id>
+        <id>rankingtrSun, 06 Jul 2025 04:49:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T03:43:12.206Z</updated>
+        <updated>2025-07-06T04:49:13.522Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -259,14 +259,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id583922375">myLightMeter PRO</a>
+        <a href="https://apps.apple.com/tr/app/id563718995">Bloons TD 5</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Pile O' Monkey Money</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -276,7 +282,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/tr/app/id583922375">myLightMeter PRO</a>
       </td>
       <td>
         <ul>
@@ -293,7 +299,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/tr/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>
         <ul>
@@ -310,7 +316,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id994157520">1942 Pacific Front Premium</a>
+        <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
       </td>
       <td>
         <ul>
@@ -327,7 +333,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1041260001">FINAL FANTASY Ⅸ</a>
+        <a href="https://apps.apple.com/tr/app/id994157520">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -344,7 +350,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1195035357">Dungeon Defense : The Gate</a>
+        <a href="https://apps.apple.com/tr/app/id1041260001">FINAL FANTASY Ⅸ</a>
       </td>
       <td>
         <ul>
@@ -361,7 +367,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1264608487">Driving Zone: Germany Pro</a>
+        <a href="https://apps.apple.com/tr/app/id1195035357">Dungeon Defense : The Gate</a>
       </td>
       <td>
         <ul>
@@ -378,7 +384,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1271620263">ICEY</a>
+        <a href="https://apps.apple.com/tr/app/id1264608487">Driving Zone: Germany Pro</a>
       </td>
       <td>
         <ul>
@@ -393,6 +399,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>17</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1271620263">ICEY</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -415,7 +438,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1380582804">Mobile Empire</a>
@@ -432,7 +455,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1435461053">This Is the Police</a>
@@ -449,7 +472,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439262206">Root Board Game</a>
@@ -478,7 +501,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1567658979">SkySafari 7 Pro</a>
@@ -495,7 +518,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1587301632">All In One Memo</a>
@@ -512,7 +535,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1614795077">Otaku's Adventure</a>
@@ -529,7 +552,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1633243177">Ableton Note</a>
@@ -546,7 +569,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1644917705">Cyber Manhunt</a>
@@ -563,7 +586,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -580,7 +603,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
@@ -847,6 +870,75 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloons TD 5]]></title>
+        <id>Bloons TD 5-tr-1751776024555</id>
+        <link href="https://apps.apple.com/tr/app/bloons-td-5/id563718995?uo=4"/>
+        <updated>2025-07-06T04:27:04.555Z</updated>
+        <summary type="html"><![CDATA[Pile O' Monkey Money: ₺229,99 → ₺129,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/bloons-td-5/id563718995?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/db/d1/07dbd1e9-aeb5-a3a9-4d0a-a8623e59afa1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Pile O' Monkey Money：</strong><span>₺229,99</span> → <b>
+  <strong>₺129,99</strong>
+</b><span>[₺129,99 ~ ₺229,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺129,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Pile O' Monkey Money：<b>₺129,99</b>
+  </li><li>
+    Tower Unlock All Upgrades：<b>₺39,99</b>
+  </li><li>
+    Bundle O' Monkey Money：<b>₺129,99</b>
+  </li><li>
+    500 Monkey Money：<b>₺39,99</b>
+  </li><li>
+    Vault O' Tokens：<b>₺449,99</b>
+  </li><li>
+    Double Cash Mode：<b>₺449,99</b>
+  </li><li>
+    Vault O' Monkey Money：<b>₺899,99</b>
+  </li><li>
+    Rank Up：<b>₺39,99</b>
+  </li><li>
+    Bigger Beacons：<b>₺39,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Five-star tower defense with unrivaled depth and replayability. Now with rewarded leaderboards for even more fun and challenge!
+
+The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!
+
+Featuring 2 brand new Towers, cool Special Agents, glorious retina graphics, original Tracks and Special Missions, a whole new tier of Specialty Building upgrades, and the powerful Monkey Lab to further upgrade your towers, Bloons TD 5 delivers hours and hours of fun, challenging play to fans and new players alike.
+
+Hours and Hours of Awesome Gameplay:
+* 90+ Tracks
+* 21 powerful towers with Activated Abilities and 2 upgrade paths
+* 10 Special Agents
+* Online Co-op play
+* Multi-track Odyssey Challenges
+* Boss Bloon Special Events
+* 10 Special Missions
+* 250+ Random Missions
+* Daily Challenges
+* New Bloon enemies - tougher Camos, Regrow Bloons, and the fearsome ZOMG
+* 50+ Game Center Achievements and Challenges
+* iCloud Support
+* 3 different game modes
+* Freeplay mode after mastering a track
+* 4 difficulty settings and family-friendly theme so anyone can play
+
+And that's just the beginning - regular planned updates will keep Bloons TD 5 fresh, fun, and challenging for many months to come. Now it's time to pop some Bloons!
+
+Remember to save to iCloud after each victory or purchase to save your progress. 
+
+iPad version also available - check out Bloons TD 5 HD for full screen UI awesomeness!
+
+https://ninjakiwi.com/terms
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/86/a7/ba/86a7baed-8ce4-1f65-f2e2-648101568aa8/d91dfeab-4c2a-4dd0-a215-8ee8f2d3df19_IMG_0667.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/39/a1/7b39a142-08d0-0a4c-29dd-584b288153f9/35d8d6fb-d300-4e39-89e8-5d0c1d897a0c_IMG_0648.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a0/66/d5/a066d523-f0c9-9173-c61b-02c89b1361f0/78e5c7b5-7900-4957-9b09-910059d283f8_IMG_0659.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4b/de/eb/4bdeebb0-c1c4-ebca-e251-3bbdfc40f485/c835dc53-96f2-43ce-9aaf-33e053cbf806_IMG_0642.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/22/8f/d1/228fd1a8-5433-e127-d6f5-2a5af5c771d8/e14d5bc2-ff04-4f1f-b0b6-9002541f25cc_IMG_0673.PNG/406x228bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grand Agent: It Call]]></title>
@@ -1778,65 +1870,5 @@ In addition, we also give several redemption code as a gift.
 
 have any suggestions or comments, please write to us：support@daycost.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/95/8f/2d958fa6-ef62-bbaa-c110-ec6cd43692b4/mzl.kmaesidk.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/6e/5a/996e5a12-6650-59dc-7e6b-cb712ba75e53/mzl.gtrysmty.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/3a/4b/ef3a4b71-f5fd-08df-138d-330bbaf75d5f/mzl.vofugzob.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/49/93/8949938a-af8c-aa69-4706-f6bd48e3699e/mzl.rmtxxhpn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/b5/6a/4db56ab8-8873-8706-59f8-8820006978e3/mzl.suesrwke.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/8e/ce/c28ecef0-9360-4fa1-f26c-a3a72badcffd/mzl.sipuksro.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/42/08/0142089e-1b73-77e6-5965-2db9628cf134/mzl.tflgjscv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/eb/30/93eb3057-9e8c-8689-5d64-1bb8cfbd090c/mzl.omqysfuw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/64/4b/90/644b90ab-3d38-581f-a567-1c724e9b8c78/mzl.kschyywg.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Agent: It Call]]></title>
-        <id>Grand Agent: It Call-tr-1751516713387</id>
-        <link href="https://apps.apple.com/tr/app/grand-agent-it-call/id6747758553?uo=4"/>
-        <updated>2025-07-03T04:25:13.387Z</updated>
-        <summary type="html"><![CDATA[Price: ₺4,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/grand-agent-it-call/id6747758553?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/be/7f/fabe7f07-f126-ec4e-8564-94b58834abf7/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺4,99</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>₺699,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In this exciting mobile game, you will become a legendary agent and embark on a secret operation codenamed "zero". Your mission is to sneak into the enemy's aircraft base and destroy all enemy aircraft. You will face many threats alone, but fortunately, you have a support aircraft to provide you with airdrop supplies.
-
-The gameplay of the game is simple but challenging. You will control the agent to move left and right on the runway of the aircraft base to avoid the attacks of enemy aircraft and the falling missiles. The top of the screen is the flight area of ​​​​the enemy aircraft, and they will continue to fire missiles at you in an attempt to shoot you down. You need to stay alert at all times to avoid these deadly threats.
-
-By clicking on the screen, you can fire into the sky and destroy enemy aircraft. There is also a "continuous shooting mode" in the game. After turning it on, you can continue to fire into the air and eliminate the enemy more efficiently. But be careful, once the enemy's missiles fall to the ground, they will cause great damage to you. You only have 3 chances to be hit. Once this number is exceeded, the game will end.
-
-During the battle, the support aircraft will regularly drop airdrops for you. These airdrops contain a variety of useful props, such as ammunition boxes for replenishing bullets, medical kits for restoring health, and upgrade props for strengthening missiles. Proper use of these airdrop props will help you gain an advantage in battle.
-
-As the game progresses, as long as you can hold on longer, you will get additional upgrade opportunities. Every upgrade will make you stronger, whether it is improving firepower, increasing health, or unlocking more powerful props, which can make you more confident when facing the enemy. The longer you hold on, the greater the benefits you will get. The ultimate goal is to defend yourself for as long as possible and destroy more enemy aircraft.
-
-This is a mini casual game that can start an exciting agent journey anytime, anywhere. Simple and easy-to-use operations, coupled with challenging gameplay, allow you to experience the thrill of exciting battles in fragmented time.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yōkai Retreat SP Yin Yang-Sama]]></title>
-        <id>Yōkai Retreat SP Yin Yang-Sama-tr-1751516713387</id>
-        <link href="https://apps.apple.com/tr/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4"/>
-        <updated>2025-07-03T04:25:13.387Z</updated>
-        <summary type="html"><![CDATA[Price: ₺449,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/1e/99531ed3-bec8-86a5-1900-8fb6fb5049e2/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺449,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺449,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>₺129,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  You will become a brave guardian and embark on an adventure to a shrine surrounded by monsters to help the Onmyoji dispel evil and liberate the trapped monster girl.
-
-The game adopts the classic horizontal version of the game. The character you control holds a weapon and stands in the center of the screen, advancing through the various scenes of the shrine as you operate. The road ahead is full of monsters that are malicious to you. They are lurking in the shadows or flying in the air, ready to attack you at any time. You need to keep firing bullets to repel these monsters and protect your way forward.
-
-In the process of moving forward, you can collect gold coins and various props floating in the air by controlling the character to jump upwards. Gold coins are an important resource in the game, which can be used to unlock more powerful weapons and upgrade your equipment. Props can provide you with immediate help, such as increasing the number of bullets, increasing the power of weapons, and obtaining a short invincible state. Reasonable use of these props will make you more calm when facing powerful monsters.
-
-As you continue to defeat monsters, the distance you travel will become longer and longer, and every corner of the shrine will be gradually liberated by you. Each level has a different scene setting, from the ancient shrine courtyard to the deep woods, to the mysterious basement, each scene has unique monsters and challenges waiting for you. You need to flexibly control the character, dodge the monster's attacks, and accurately fire bullets to eliminate the enemy.
-</p>]]></content>
     </entry>
 </feed>

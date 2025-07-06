@@ -53,6 +53,13 @@
         "终身会员": 1
       }
     },
+    "1624326561": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "SP武将碎片": 1
+      }
+    },
     "1633243177": {
       "all": 1,
       "price": 1,
@@ -625,6 +632,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "563718995": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Pile O' Monkey Money": 1
+      }
     },
     "583922375": {
       "all": 1,
