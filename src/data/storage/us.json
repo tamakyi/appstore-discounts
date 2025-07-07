@@ -23056,6 +23056,21 @@
     "history": [
       [
         {
+          "timestamp": 1751858392857,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Learn to Drive UK - 1 month": "$3.99",
+            "Learn to Drive UK - 12 months": "$14.99",
+            "Learn to Drive UK - 3 months": "$11.99",
+            "Learn to Drive UK - 3 month": "$11.99",
+            "Learn to Drive Unlimited": "$19.99",
+            "Learn to Drive UK - Unlimited": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751512525372,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -26202,6 +26217,14 @@
     "history": [
       [
         {
+          "timestamp": 1751858392857,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751598808484,
           "price": 0,
           "formattedPrice": "Free",
@@ -28746,6 +28769,22 @@
       "119 Gems": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751858392857,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "13 Gems": "$7.99",
+            "6 Gems": "$3.99",
+            "1 Gem": "$0.99",
+            "48 Gems": "$28.99",
+            "150 Gems": "$79.99",
+            "74 Gems": "$40.99",
+            "28 Gems": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749784361183,
@@ -37860,6 +37899,25 @@
     "history": [
       [
         {
+          "timestamp": 1751858392857,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "Total Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Element Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "180 Rubies": "$2.99",
+            "Ring Package": "$24.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751598808484,
           "price": 0,
           "formattedPrice": "Free",
@@ -45386,6 +45444,24 @@
       "Aquaria Cruising Guide": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751858392857,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_3": "$20.99",
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "Valentine Stage": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751430191350,
@@ -70163,6 +70239,14 @@
       "formattedPrice": "$0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751858392857,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751080158817,
@@ -97473,6 +97557,14 @@
     "history": [
       [
         {
+          "timestamp": 1751858392857,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        },
+        {
           "timestamp": 1751782646029,
           "inAppPurchases": {}
         },
@@ -97865,6 +97957,14 @@
     "history": [
       [
         {
+          "timestamp": 1751858392857,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        },
+        {
           "timestamp": 1751782646029,
           "inAppPurchases": {}
         },
@@ -97983,6 +98083,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751858392857,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$14.99"
+          }
+        },
         {
           "timestamp": 1751782646029,
           "inAppPurchases": {}

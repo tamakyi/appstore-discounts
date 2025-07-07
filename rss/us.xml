@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-06T07:34:02.400Z</updated>
+    <updated>2025-07-07T03:42:04.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T07:34:02.402Z</updated>
+        <updated>2025-07-07T03:42:04.144Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 06 Jul 2025 07:34:02 GMT</id>
+        <id>rankingusMon, 07 Jul 2025 03:42:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T07:34:02.402Z</updated>
+        <updated>2025-07-07T03:42:04.144Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1198</b>
+        <b>1199</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>997</b>
+        <b>998</b>
       </td>
       <td>
         <b>30</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1097</b>
+        <b>1098</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>921</b>
+        <b>922</b>
       </td>
       <td>
         <b>25</b>
@@ -237,7 +237,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id994157520">1942 Pacific Front Premium</a>
+        <a href="https://apps.apple.com/us/app/id983143183">Neo Monsters</a>
       </td>
       <td>
         <ul>
@@ -254,7 +254,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1041260001">FINAL FANTASY Ⅸ</a>
+        <a href="https://apps.apple.com/us/app/id994157520">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -271,7 +271,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1195035357">Dungeon Defense : The Gate</a>
+        <a href="https://apps.apple.com/us/app/id1041260001">FINAL FANTASY Ⅸ</a>
       </td>
       <td>
         <ul>
@@ -288,7 +288,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1264608487">Driving Zone: Germany Pro</a>
+        <a href="https://apps.apple.com/us/app/id1195035357">Dungeon Defense : The Gate</a>
       </td>
       <td>
         <ul>
@@ -305,7 +305,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1271620263">ICEY</a>
+        <a href="https://apps.apple.com/us/app/id1264608487">Driving Zone: Germany Pro</a>
       </td>
       <td>
         <ul>
@@ -322,7 +322,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1380582804">Mobile Empire</a>
+        <a href="https://apps.apple.com/us/app/id1271620263">ICEY</a>
       </td>
       <td>
         <ul>
@@ -339,7 +339,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
+        <a href="https://apps.apple.com/us/app/id1380582804">Mobile Empire</a>
       </td>
       <td>
         <ul>
@@ -354,6 +354,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -382,7 +399,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -399,7 +416,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -416,7 +433,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1614795077">Otaku's Adventure</a>
@@ -433,7 +450,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1633243177">Ableton Note</a>
@@ -450,7 +467,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1644917705">Cyber Manhunt</a>
@@ -467,7 +484,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -484,7 +501,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6746683191">CASE No: 1937</a>
@@ -509,7 +526,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
@@ -761,6 +778,77 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neo Monsters]]></title>
+        <id>Neo Monsters-us-1751858392857</id>
+        <link href="https://apps.apple.com/us/app/neo-monsters/id983143183?uo=4"/>
+        <updated>2025-07-07T03:19:52.857Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/neo-monsters/id983143183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/42/c5/8642c5a8-38b8-9aea-75ac-8a1efaec0d36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $0.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    13 Gems：<b>$7.99</b>
+  </li><li>
+    6 Gems：<b>$3.99</b>
+  </li><li>
+    1 Gem：<b>$0.99</b>
+  </li><li>
+    48 Gems：<b>$28.99</b>
+  </li><li>
+    150 Gems：<b>$79.99</b>
+  </li><li>
+    74 Gems：<b>$40.99</b>
+  </li><li>
+    28 Gems：<b>$14.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Become a Legend! Capture over 2000 Animated Monsters and Duel in Real-Time PvP!
+
+Form your team and battle for victory! Capture, train, and evolve to become the champion in one of the biggest monster battling RPGs!
+
+Neo Monsters is an addictive strategy RPG that features epic 4v4 battles between two teams of up to 16 monsters. The unique turn-based battle system allows you to come up with powerful chain strategies by combining hundreds of abilities. Hunt down the strongest monsters and harness their power, then take the battle online to dominate in exciting PvP battles and leagues! Are you ready to take the challenge?
+
+▶Features:
+●  Build your Monster Collection
+• Capture and evolve over 1000 fully animated monsters!
+• Train your monsters and unleash their deadly potential.
+• Collect evolution ingredients to create the ultimate power!
+
+●  Form a Battle Strategy
+• Build the ultimate team of up to 16 monsters.
+• Defeat your opponents in epic turn-based 4v4 battles!
+• Create devastating combinations from hundreds of abilities.
+
+●  Become the Champion
+• Conquer six Leagues and take on the Grand Champion in 60+ hours of adventure!
+• Explore multiple islands and dungeons on your journey.
+• Follow the story to uncover the truth behind your late uncle’s atrocity.
+
+●  Take the Battle Online
+• Duel players from around the world in PvP leagues!
+• Complete 100+ online missions.
+• Take on weekly updated events to unlock big rewards.
+
+Follow us on Facebook:
+https://www.facebook.com/NeoMonstersOfficial/
+Join the Neo Monsters community:
+http://www.neomonstersforum.com/
+Issues or questions? Contact our support:
+neomonsupport.gameplay@zigzagame.net
+
+Terms of Service:
+https://www.zigzagame.com/terms/
+Privacy Policy:
+https://www.zigzagame.com/privacy-policy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghostly Detector]]></title>
@@ -1092,147 +1180,5 @@ Thank you!
 
 David Quiles
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/07/ac/1207acb9-43a9-0532-f05d-e0a1bddd4369/mzl.wjlkzesd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/6f/be/4a6fbeca-4aec-15ba-4ca5-5d5a215f6e89/mzl.bwjvsexd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/17/f9/6117f90d-ad41-c810-608b-4f8e3b8204ae/mzl.eahombit.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/a3/80/a7a380a1-a371-9c57-d960-114d33355195/mzl.tuazbmqa.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Defense : The Gate]]></title>
-        <id>Dungeon Defense : The Gate-us-1751598808484</id>
-        <link href="https://apps.apple.com/us/app/dungeon-defense-the-gate/id1195035357?uo=4"/>
-        <updated>2025-07-04T03:13:28.484Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/dungeon-defense-the-gate/id1195035357?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/6b/d5/f76bd577-b36b-02ff-d0f2-862c2f98907e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Feature Package：<b>$3.99</b>
-  </li><li>
-    Automatic Package：<b>$15.99</b>
-  </li><li>
-    Total Package：<b>$15.99</b>
-  </li><li>
-    300 Rubies：<b>$3.99</b>
-  </li><li>
-    180 Rubies：<b>$2.99</b>
-  </li><li>
-    660 Rubies：<b>$8.99</b>
-  </li><li>
-    Ring Package：<b>$24.99</b>
-  </li><li>
-    Element Package：<b>$15.99</b>
-  </li><li>
-    1100 Rebirth Stones：<b>$3.99</b>
-  </li><li>
-    2400 Rebirth Stones：<b>$8.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ※ Introduction
-Defeat all invaders to defend your dungeon!
-Collect more weapons and monsters to make them stronger.
-Enjoy various contents such as "dungeon building, collect various weapons, achievements"
-
-※ Story
-In order to defend the last remaining dungeon of this world, you became a guardian.
-Heroes from all over the world gather to conquer the dungeon.
-Never be defeated, be the best dungeon!
-
-※ Characteristics of game
-◈ Enjoy "Retro graphics & Sounds".
-◈ Easy to play, anyone can enjoy it easily.
-◈ Please enjoy the pleasure by sweeping away enemies.
-◈ Organize a variety of mercenaries and find synergies.
-◈ Rewards are waiting for each achievement.
-
-I am a solo developer.
-Your download and feedback is so precious to me.
-If you have fun, please recommend it to the people around you.
-
--SUPPORT-
-E-Mail : support@gamecoaster.com
-Tel :+82 10-4178-0283
-
-@ GameCoaster
-
-* In-app Payment lets you use features or characters immediately. However, you can enjoy all of the content without IAP. :)
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/84/05/31840596-edea-35f7-595b-e15a365ac230/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/4d/79/7c4d79dc-4806-fa65-44d0-865787066f5e/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f1/69/0f/f1690f3a-e09f-f9fb-3467-dde830e936ff/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ce/99/74/ce9974f3-95be-2675-7fab-be46f4f99f09/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d7/f5/3a/d7f53af2-006b-37c3-2e29-8336f6fa230a/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/15/a1/0015a1f1-9c0b-69d7-383c-55d415e6a890/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b4/ee/8a/b4ee8a5e-c1fc-748d-5d03-b5933b7111af/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/13/17/23/1317234d-a211-c5c3-5507-2c4ce816379b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bc/4c/d2/bc4cd230-5abf-a18b-336a-40df944148c5/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/eb/f1/4b/ebf14b6a-a556-9b3b-ba92-25ce7f02ee33/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DayCost Pro - Personal Finance]]></title>
-        <id>DayCost Pro - Personal Finance-us-1751598808484</id>
-        <link href="https://apps.apple.com/us/app/daycost-pro-personal-finance/id931188326?uo=4"/>
-        <updated>2025-07-04T03:13:28.484Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/daycost-pro-personal-finance/id931188326?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/51/6d/b4516d63-0c1f-388c-5319-59c9737f5d2d/ProAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Three seconds a bill. Fast, Security and Easy to use is our aim, and iOS notification center widget.
-
-Look at other people how to say:
-◎ I just downloaded this app and I am so loving it already! It seems easy to use but I need to explore it more.
-◎ Very innovative work. Keep up guys. 5 star app.
-◎ It's quick to note down your expenses and helps you track your money.
-◎ Polished, smart, simple, with all functions of apps of this kind. Exactly the one I was looking for. Makes me delete other similar apps on my phone and keep only this one, really.
-◎ I love this app! It is clean, beautiful, very customizable, and user-friendly. I love the ability to make your own categories and accounts. And I also love the ability to put it in your pull-down Notification Center on your phone. It makes it quickly accessible during the day. Great job, love the app!
-
-Apple Watch:
-You can create incomes and expenses from your Apple Watch. The Glance shows your expenses of today, this month.
-
-Feature：
-◎ Three seconds only: pull down, fill money, choose category
-◎ iOS notification center widget: you can easily account when iPhone lock screen
-◎ Passcode security: everyone cannot open, only you. even double-click the Home button, in the App list can not view the data
-◎ Support more than 160 kinds of currency, conversion exchange rate automatic updates
-◎ Calculator: built-in calculator, more convenient and faster
-◎ Full gestures: fast billing basic
-◎ Humane beginners guide: for special operations, we guide the way through the animation + text, more intuitive, easier to understand
-◎ iCloud backup & restore
-◎ Dropbox backup & restore
-◎ Export data to CSV via Email
-◎ Recurring event, both expenses and incomes, with rich frequency options.
-◎ Allow custom theme color and wallpaper.
-◎ Allow add transaction from template.
-
-Basic：
-◎ Expense & Income bills can be added photos
-◎ Income, Expense, Transfer, the others have
-◎ Graphical reports, allowing you to easily view the balance of payments situation year / month / week
-◎ Budget management: give yourself a reason to control consumption
-◎ A variety of color themes and wallpaper, allows you to fully personalize
-◎ Custom categories and consumption expenditure accounts, more in line with your needs
-◎ Supports iPhone & iPad
-◎ Daily reminder
-
-Increase：
-◎ Easy copy history through gestures and automatically positioned in the day consumption date, you only need to modify the money can be. of course, you can use the existing money saved directly
-◎ You can also add categories and account when billing editing, click on the banner to change currency
-
-If you give up because of difficulties
-If you give up because of busy
-If you want to know where expenses
-If you want to save money
-If 。。。
-
-Try our "DayCost" it, she will be your best assistant
-
-URL Schemes: DayCost://
-
-Help translate DayCost:
-Contribute to the DayCost translation in your language.
-Let's make DayCost available to everyone in the world!
-We will show translator's info in DayCost, if you so desire.
-In addition, we also give several redemption code as a gift.
-
-have any suggestions or comments, please write to us：support@daycost.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/95/8f/2d958fa6-ef62-bbaa-c110-ec6cd43692b4/mzl.kmaesidk.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/6e/5a/996e5a12-6650-59dc-7e6b-cb712ba75e53/mzl.gtrysmty.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/3a/4b/ef3a4b71-f5fd-08df-138d-330bbaf75d5f/mzl.vofugzob.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/89/49/93/8949938a-af8c-aa69-4706-f6bd48e3699e/mzl.rmtxxhpn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/b5/6a/4db56ab8-8873-8706-59f8-8820006978e3/mzl.suesrwke.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/8e/ce/c28ecef0-9360-4fa1-f26c-a3a72badcffd/mzl.sipuksro.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/42/08/0142089e-1b73-77e6-5965-2db9628cf134/mzl.tflgjscv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/eb/30/93eb3057-9e8c-8689-5d64-1bb8cfbd090c/mzl.omqysfuw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/64/4b/90/644b90ab-3d38-581f-a567-1c724e9b8c78/mzl.kschyywg.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
