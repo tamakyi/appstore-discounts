@@ -44231,6 +44231,27 @@
       ]
     ]
   },
+  "1321340307": {
+    "name": "夏日水上樂園物語",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751912271005,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1322446531": {
     "name": "DAZZ FILM - Disposable Camera",
     "maxPriceInfo": {
