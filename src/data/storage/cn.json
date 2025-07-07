@@ -1192,6 +1192,23 @@
     "history": [
       [
         {
+          "timestamp": 1751901138572,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Portland HipstaPak": "¥8.00",
+            "Williamsburg Starter HipstaPak": "¥8.00",
+            "Camden HipstaPak": "¥8.00",
+            "Mission Hipstapak": "¥8.00",
+            "Shibuya HipstaPak": "¥8.00",
+            "Tintype SnapPak": "¥8.00",
+            "Foodie SnapPak": "¥8.00",
+            "Multi-Exposure Kit": "¥8.00",
+            "RetroPak Three": "¥28.00",
+            "RetroPak One": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1751897589999,
           "price": 22,
           "formattedPrice": "¥22.00",
