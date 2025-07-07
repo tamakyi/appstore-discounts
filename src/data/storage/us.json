@@ -37518,6 +37518,27 @@
       ]
     ]
   },
+  "1168579372": {
+    "name": "玄易八字",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751876344392,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1171627280": {
     "name": "魔窟-无尽的地下城: 暗黑世界",
     "maxPriceInfo": {
