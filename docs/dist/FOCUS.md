@@ -931,7 +931,7 @@ So far, we've covered `6` `Countries or Regions` and  `1199` `Apps` <br />Push n
 |276|6740246950|Automatic|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|花皮 - 同城约会，无面具社交，解压释放正念素颜|
 |275|6550914957|Automatic|打造世界-经典沙盒建造|❌|❌|❌|❌|❌|
 |274|6742537442|Automatic|努力活着 - 自由人生重开模拟器|❌|❌|❌|❌|❌|
-|273|6741474933|Automatic|Berryfilm|Berryfilm|Berryfilm|Berryfilm|Berryfilm|Berryfilm|
+|273|6741474933|Automatic|Berry胶片相机 - 韩系自拍神器|Berry底片相機 - 韓系奶霜感攝影|Berry底片相機 - 韓系奶霜感攝影|Berry底片相機 - 韓系奶霜感攝影|BerryFilm - Korean Style Cam|BerryFilm - Korean Style Cam|
 |272|6742221550|Automatic|魔卡棋旅|❌|❌|❌|❌|❌|
 |271|6738767315|Automatic|便利店开业日记|❌|❌|❌|❌|❌|
 |270|6737987084|Automatic|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者|CatLight Pro: Selfie Light Cam|CatLight Pro: Selfie Light Cam|

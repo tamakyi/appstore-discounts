@@ -1350,6 +1350,25 @@
     "history": [
       [
         {
+          "timestamp": 1751862503189,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {
+            "SPL Pro Module": "₺349,99",
+            "SPL Graph Module": "₺449,99",
+            "SoundScope VR": "₺999,99",
+            "ETC Module": "₺249,99",
+            "Polarity Test Module": "₺179,99",
+            "VU Meter": "₺129,99",
+            "Speaker Distortion": "₺249,99",
+            "Phase Meter": "₺349,99",
+            "IR Module": "₺2.299,99",
+            "LARSA": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750899739699,
           "price": 899.99,
           "formattedPrice": "₺899,99",
@@ -33566,6 +33585,23 @@
     "history": [
       [
         {
+          "timestamp": 1751862503189,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺299,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Blazing Gem": "₺229,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Hero Mortemis": "₺129,99",
+            "Tower Grim Cemetery": "₺129,99",
+            "Tower Deep Devil's Reef": "₺129,99",
+            "Hero Jack'O Lantern": "₺129,99",
+            "Hero Dianyun": "₺249,99",
+            "Tower Goblin War Zeppelin": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1751850416149,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -54190,6 +54226,25 @@
     "history": [
       [
         {
+          "timestamp": 1751862503189,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Midnight Mix Pack 1": "₺99,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Holiday Christmas Pack 2": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751796757462,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -65845,7 +65900,7 @@
     ]
   },
   "6741474933": {
-    "name": "Berryfilm",
+    "name": "BerryFilm - Korean Style Cam",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
