@@ -22274,6 +22274,25 @@
     "history": [
       [
         {
+          "timestamp": 1751869223400,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "238学币": "$34.99",
+            "188学币": "$29.99",
+            "698学币": "$99.99",
+            "398学币": "$59.99",
+            "998学币": "$119.99",
+            "298学币": "$39.99",
+            "128学币": "$19.99",
+            "98学币": "$14.99",
+            "68学币": "$9.99",
+            "38学币": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751382822801,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -34994,6 +35013,25 @@
     "history": [
       [
         {
+          "timestamp": 1751869223400,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "宝石通行证": "$14.99",
+            "休假证明": "$14.99",
+            "小憩十次": "$3.99",
+            "新春灯笼": "$14.99",
+            "购买十次": "$3.99",
+            "狂欢十次": "$3.99",
+            "圣诞派对": "$14.99",
+            "黄金通行证": "$14.99",
+            "劳动勋章": "$14.99",
+            "劳动十次": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751713788559,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -39658,6 +39696,25 @@
       "Hero Mortemis": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751869223400,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "$7.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Tower Ignis Altar": "$2.99",
+            "Hero Grosh": "$4.99",
+            "Special Offer 27": "$7.99",
+            "Special Offer 24": "$7.99",
+            "Special Offer 21": "$7.99",
+            "Special Offer 20": "$7.99",
+            "Special Offer 19": "$7.99",
+            "Special Offer 18": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751426026026,
@@ -78258,6 +78315,25 @@
     "history": [
       [
         {
+          "timestamp": 1751869223400,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Nurse Pack": "$4.99",
+            "Unlock Beholder": "$2.99",
+            "Unlock Gumiho": "$2.99",
+            "Season 3 Battle Pass": "$1.99",
+            "Uniform Pack": "$3.99",
+            "Unlock Baphomet": "$2.99",
+            "Season 2 Battle Pass": "$1.99",
+            "Monster Pack 2": "$29.99",
+            "Info Pack": "$12.99",
+            "Smelting Pack": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751839944177,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -97652,6 +97728,10 @@
     "history": [
       [
         {
+          "timestamp": 1751869223400,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751865384382,
           "price": 0,
           "formattedPrice": "Free",
@@ -98062,6 +98142,10 @@
     "history": [
       [
         {
+          "timestamp": 1751869223400,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751865384382,
           "price": 0,
           "formattedPrice": "Free",
@@ -98198,6 +98282,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751869223400,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751865384382,
           "price": 0,
