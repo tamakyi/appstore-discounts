@@ -61543,6 +61543,23 @@
     "history": [
       [
         {
+          "timestamp": 1751908309053,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Pack": "₺699,99",
+            "Season 1 Pack": "₺449,99",
+            "Beyond the Bunkers": "₺299,99",
+            "Critical Mass": "₺299,99",
+            "Ultimate Pack (discount)": "₺499,99",
+            "Survival Guide": "₺129,99",
+            "Cheats & Punishment": "₺229,99",
+            "Season 1 Pack (discount)": "₺299,99",
+            "New Leaders": "₺229,99",
+            "Ultimate Pack (big discount)": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1751904962371,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -73118,6 +73135,25 @@
       "5,500 PP for OOTP Go 26!": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751908309053,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "1M PP + Pack 2 for OOTP Go 26!": "₺22.999,99",
+            "1M PP + Pack 3 for OOTP Go 26!": "₺22.999,99",
+            "1M PP + Pack 1 for OOTP Go 26!": "₺22.999,99",
+            "75,000 PP for OOTP Go 26!": "₺2.299,99",
+            "1,000,000 PP for OOTP Go 26!": "₺22.999,99",
+            "175,000 PP for OOTP Go 26!": "₺4.499,99",
+            "12,000 PP for OOTP Go 26!": "₺449,99",
+            "1M PP + Pack 4 for OOTP Go 26!": "₺22.999,99",
+            "25,000 PP for OOTP Go 26!": "₺899,99",
+            "5,500 PP for OOTP Go 26!": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750964999629,

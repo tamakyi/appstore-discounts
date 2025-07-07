@@ -5933,6 +5933,23 @@
     "history": [
       [
         {
+          "timestamp": 1751908309053,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Superpower 10": "USD 1.99",
+            "Unlock all level packs including future updates": "USD 3.99",
+            "Unlock \"Bamboo Chutes\" level pack": "USD 1.99",
+            "Magnetic Stars Superior Pack": "USD 24.99",
+            "Superpower 50 Sale": "USD 4.99",
+            "Magnetic Stars Grand Pack Sale": "USD 7.99",
+            "Magnetic Stars Grand Pack": "USD 14.99",
+            "Magnetic Stars Large Pack": "USD 6.99",
+            "Magnetic Stars Tiny Pack": "USD 3.99",
+            "Unlock \"Bath Time\" level pack": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1751904962371,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -66368,6 +66385,25 @@
       "5,500 PP for OOTP Go 26!": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751908309053,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "1M PP + Pack 2 for OOTP Go 26!": "USD 499.99",
+            "1M PP + Pack 3 for OOTP Go 26!": "USD 499.99",
+            "1M PP + Pack 1 for OOTP Go 26!": "USD 499.99",
+            "75,000 PP for OOTP Go 26!": "USD 49.99",
+            "1,000,000 PP for OOTP Go 26!": "USD 499.99",
+            "175,000 PP for OOTP Go 26!": "USD 99.99",
+            "12,000 PP for OOTP Go 26!": "USD 9.99",
+            "1M PP + Pack 4 for OOTP Go 26!": "USD 499.99",
+            "25,000 PP for OOTP Go 26!": "USD 19.99",
+            "5,500 PP for OOTP Go 26!": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750964999629,
