@@ -95145,5 +95145,57 @@
         }
       ]
     ]
+  },
+  "6478287619": {
+    "name": "Exploding Kittens® 2",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Explosive Expansions Pass": "$290.00",
+      "Santa Claws Card Back": "$30.00",
+      "Santa Claws Pack": "$120.00",
+      "Under the Tree location": "$60.00",
+      "Santa Claws Emoji Pack": "$30.00",
+      "All Wrapped Up outfit": "$60.00",
+      "Snow Globe Outfit": "$60.00",
+      "Mystic Mayhem Location": "$30.00",
+      "MysticMayhem Cauldron Creature": "$60.00",
+      "Mystic Mayhem Emoji Pack": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "Explosive Expansions Pass": "$290.00",
+      "Santa Claws Card Back": "$30.00",
+      "Santa Claws Pack": "$120.00",
+      "Under the Tree location": "$60.00",
+      "Santa Claws Emoji Pack": "$30.00",
+      "All Wrapped Up outfit": "$60.00",
+      "Snow Globe Outfit": "$60.00",
+      "Mystic Mayhem Location": "$30.00",
+      "MysticMayhem Cauldron Creature": "$60.00",
+      "Mystic Mayhem Emoji Pack": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751922702030,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$290.00",
+            "Santa Claws Card Back": "$30.00",
+            "Santa Claws Pack": "$120.00",
+            "Under the Tree location": "$60.00",
+            "Santa Claws Emoji Pack": "$30.00",
+            "All Wrapped Up outfit": "$60.00",
+            "Snow Globe Outfit": "$60.00",
+            "Mystic Mayhem Location": "$30.00",
+            "MysticMayhem Cauldron Creature": "$60.00",
+            "Mystic Mayhem Emoji Pack": "$60.00"
+          }
+        }
+      ]
+    ]
   }
 }
