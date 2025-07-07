@@ -61543,6 +61543,23 @@
     "history": [
       [
         {
+          "timestamp": 1751897589999,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Pack": "₺699,99",
+            "Season 1 Pack": "₺449,99",
+            "Beyond the Bunkers": "₺299,99",
+            "Critical Mass": "₺299,99",
+            "Ultimate Pack (discount)": "₺499,99",
+            "Survival Guide": "₺129,99",
+            "Cheats & Punishment": "₺229,99",
+            "Season 1 Pack (discount)": "₺299,99",
+            "New Leaders": "₺229,99",
+            "Ultimate Pack (big discount)": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1751894898979,
           "price": 99.99,
           "formattedPrice": "₺99,99",

@@ -72501,6 +72501,16 @@
     "history": [
       [
         {
+          "timestamp": 1751897589999,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750695365912,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
