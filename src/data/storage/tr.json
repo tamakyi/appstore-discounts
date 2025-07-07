@@ -20073,6 +20073,23 @@
     "history": [
       [
         {
+          "timestamp": 1751915479577,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Faustus": "₺299,99",
+            "Bag Of Gems": "₺129,99",
+            "Bruce": "₺229,99",
+            "Phoenix": "₺299,99",
+            "Vez'nan": "₺229,99",
+            "Reg'son": "₺99,99",
+            "Special Offer Faustus": "₺229,99",
+            "Prince Denas": "₺129,99",
+            "Durax": "₺229,99",
+            "Chest of gems": "₺899,99"
+          }
+        },
+        {
           "timestamp": 1751850416149,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -27053,6 +27070,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751915479577,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99",
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Subscription (1 year)": "₺2.299,99"
+          }
+        },
         {
           "timestamp": 1751912271005,
           "price": 0,
