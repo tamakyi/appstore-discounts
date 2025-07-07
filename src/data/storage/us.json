@@ -34104,6 +34104,19 @@
     "history": [
       [
         {
+          "timestamp": 1751894898979,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "\"Time\"": "$0.49",
+            "Donation I": "$0.99",
+            "Donation III": "$4.99",
+            "Donation II": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750508499126,
           "price": 0,
           "formattedPrice": "Free",
@@ -38064,6 +38077,25 @@
       "18000 Rebirth Stones": "$41.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751894898979,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Element Package": "$15.99",
+            "Rebirth EXP increase": "$8.99",
+            "180 Rubies": "$2.99",
+            "Element EXP increase": "$8.99",
+            "Ring Package": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751858392857,

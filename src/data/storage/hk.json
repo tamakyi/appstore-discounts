@@ -12292,6 +12292,23 @@
     "history": [
       [
         {
+          "timestamp": 1751894898979,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "「日本香港組合包」": "HK$ 8.00",
+            "大富翁4 Fun 美國地圖": "HK$ 8.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "HK$ 8.00",
+            "大富翁 4 fun 韓國地圖組合包": "HK$ 8.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "HK$ 8.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "HK$ 8.00",
+            "大富翁 4 fun 樂園組合包": "HK$ 8.00",
+            "仙五地圖包": "HK$ 8.00",
+            "大富翁4 Fun夏日組合包": "HK$ 8.00",
+            "遺跡探險組合包": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1751862503189,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -88795,6 +88812,25 @@
       "Boeing 737": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751894898979,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 32.00",
+            "Global scenery - 12 months": "HK$ 98.00",
+            "The Aircraft Bundle": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "UH-60": "HK$ 8.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 737-900": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751692350639,
