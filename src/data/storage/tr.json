@@ -5613,6 +5613,23 @@
     "history": [
       [
         {
+          "timestamp": 1751872511190,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺39,99",
+            "Voices": "₺39,99",
+            "Varazdin Orchestral Mobile": "₺179,99",
+            "Amped Guitar & Bass": "₺129,99",
+            "Synth Lead": "₺99,99",
+            "Sliced Beats": "₺39,99",
+            "Acoustic Guitars": "₺39,99",
+            "Synth Plucks": "₺99,99",
+            "Drumaxx": "₺99,99",
+            "Groove Machine Synth": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1751869223400,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -62249,6 +62266,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751872511190,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Season Pass": "₺299,99",
+            "Nurse Pack": "₺229,99",
+            "Autonomy": "₺129,99",
+            "Mecha Pack": "₺229,99",
+            "Unlock Beholder": "₺129,99",
+            "Unlock Gumiho": "₺129,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺179,99",
+            "Unlock Baphomet": "₺129,99",
+            "Season 2 Battle Pass": "₺99,99"
+          }
+        },
         {
           "timestamp": 1751869223400,
           "price": 229.99,

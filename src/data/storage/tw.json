@@ -14305,6 +14305,25 @@
     "history": [
       [
         {
+          "timestamp": 1751872511190,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark: The Valley": "$30.00",
+            "2017 Skatepark of Tampa": "$60.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: Havasu": "$60.00",
+            "Skatepark: Schoolyard": "$30.00",
+            "Skatepark: Macba": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751430191350,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -83777,6 +83796,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751872511190,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "萬聖派對": "$30.00",
+            "2025春いちごスキン": "$20.00",
+            "花火大會": "$30.00",
+            "新年日出": "$30.00",
+            "夏威夷海灘": "$20.00",
+            "聖誕夜": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "2025春ネモフィラスキン": "$20.00",
+            "夏日庭院": "$20.00",
+            "紅葉漫步": "$30.00"
+          }
+        },
         {
           "timestamp": 1751862503189,
           "price": 30,

@@ -94028,6 +94028,10 @@
     "history": [
       [
         {
+          "timestamp": 1751872511190,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751858392857,
           "price": 0,
           "formattedPrice": "免費",
@@ -94466,6 +94470,10 @@
     "history": [
       [
         {
+          "timestamp": 1751872511190,
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1751858392857,
           "price": 0,
           "formattedPrice": "免費",
@@ -94608,6 +94616,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751872511190,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1751858392857,
           "price": 0,
