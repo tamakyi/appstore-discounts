@@ -115,6 +115,7 @@ export const latestAppConfig: AppConfig[] = [
       hk: 'Grand Agent: It Call',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 509223426,
@@ -150,6 +151,7 @@ export const latestAppConfig: AppConfig[] = [
       hk: 'Stop&Get Away From Me! Defense',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1330451888,
@@ -234,6 +236,7 @@ export const latestAppConfig: AppConfig[] = [
       tr: 'Yōkai Retreat SP Yin Yang-Sama',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1062515791,
