@@ -829,11 +829,12 @@
       "inAppPurchase": {}
     },
     "6746683191": {
-      "all": 4,
+      "all": 5,
       "price": 3,
       "inAppPurchase": {
         "75 Credits": 1,
-        "150 Kredi": 1
+        "150 Kredi": 1,
+        "10 Credits": 1
       }
     },
     "6449251957": {

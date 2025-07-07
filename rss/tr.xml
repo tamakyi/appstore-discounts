@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-07T03:42:04.151Z</updated>
+    <updated>2025-07-07T20:37:07.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-07T03:42:04.151Z</updated>
+        <updated>2025-07-07T20:37:07.077Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 07 Jul 2025 03:42:04 GMT</id>
+        <id>rankingtrMon, 07 Jul 2025 20:37:07 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-07T03:42:04.151Z</updated>
+        <updated>2025-07-07T20:37:07.077Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,16 +51,16 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1199</b>
+        <b>1202</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>998</b>
+        <b>1001</b>
       </td>
       <td>
-        <b>30</b>
+        <b>33</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1095</b>
+        <b>1098</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>923</b>
+        <b>926</b>
       </td>
       <td>
-        <b>26</b>
+        <b>29</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6746355331">Stop&Get Away From Me! Defense</a>
+        <del>
+          <a href="https://apps.apple.com/tr/app/id6746355331">Stop&Get Away From Me! Defense</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -112,7 +114,9 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+        <del>
+          <a href="https://apps.apple.com/tr/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -129,14 +133,24 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6747758553">Grand Agent: It Call</a>
+        <a href="https://apps.apple.com/tr/app/id6746683191">CASE No: 1937</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>4</b>
+            <span>Total Times</span>：<b>5</b>
           </li><li>
-            <span>Price</span>：<b>4</b>
+            <span>Price</span>：<b>3</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>75 Credits</i>：<b>1</b>
+              </li><li>
+                <i>150 Kredi</i>：<b>1</b>
+              </li><li>
+                <i>10 Credits</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -146,22 +160,16 @@ feedId:157008924688563200+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6746683191">CASE No: 1937</a>
+        <del>
+          <a href="https://apps.apple.com/tr/app/id6747758553">Grand Agent: It Call</a>
+        </del>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>4</b>
           </li><li>
-            <span>Price</span>：<b>3</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>75 Credits</i>：<b>1</b>
-              </li><li>
-                <i>150 Kredi</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>4</b>
           </li>
         </ul>
       </td>
@@ -673,7 +681,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id567533074">Sonic Jump™</a>
+        <a href="https://apps.apple.com/tr/app/id6747758553">Grand Agent: It Call</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -682,7 +690,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1056920931">Iron Marines: RTS offline game</a>
+        <a href="https://apps.apple.com/tr/app/id6746355331">Stop&Get Away From Me! Defense</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -691,7 +699,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
+        <a href="https://apps.apple.com/tr/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -700,7 +708,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1238247658">Cluedo: Classic Edition</a>
+        <a href="https://apps.apple.com/tr/app/id567533074">Sonic Jump™</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -709,7 +717,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
+        <a href="https://apps.apple.com/tr/app/id1056920931">Iron Marines: RTS offline game</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -718,7 +726,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id403684733">Badoo Premium</a>
+        <a href="https://apps.apple.com/tr/app/id1038014543">Day R Premium</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -727,7 +735,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
+        <a href="https://apps.apple.com/tr/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -736,7 +744,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
+        <a href="https://apps.apple.com/tr/app/id6446178861">PlayNav - No ads in videos!</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -745,7 +753,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
+        <a href="https://apps.apple.com/tr/app/id403684733">Badoo Premium</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -754,7 +762,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/tr/app/id904278510">Hitman Sniper</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -763,7 +771,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
+        <a href="https://apps.apple.com/tr/app/id918609651">Money Pro: Personal Finance AR</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -772,7 +780,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/tr/app/id1028950091">The Greedy Cave</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -781,7 +789,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/tr/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -790,7 +798,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/tr/app/id1439187947">Rebel Inc.</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -799,7 +807,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
+        <a href="https://apps.apple.com/tr/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -808,34 +816,34 @@ feedId:157008924688563200+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
+        <a href="https://apps.apple.com/tr/app/id1512751689">The Game of Life 2</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/tr/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/tr/app/id6740471827">Classic Maze Game for Watch</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/tr/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -844,7 +852,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/tr/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -853,7 +861,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -862,7 +870,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -871,7 +879,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -880,7 +888,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -889,7 +897,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
+        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -898,12 +906,79 @@ feedId:157008924688563200+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>27</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>29</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id388624839">CamScanner + | PDF Scanner</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASE No: 1937]]></title>
+        <id>CASE No: 1937-tr-1751919251969</id>
+        <link href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4"/>
+        <updated>2025-07-07T20:14:11.969Z</updated>
+        <summary type="html"><![CDATA[10 Credits: ₺39,99 → ₺29,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e3/3c/96e33c6d-17b2-49c2-dbf4-861951fd8a42/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>10 Credits：</strong><span>₺39,99</span> → <b>
+  <strong>₺29,99</strong>
+</b><span>[₺29,99 ~ ₺39,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺9,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    10 Credits：<b>₺29,99</b>
+  </li><li>
+    30 Credits：<b>₺79,99</b>
+  </li><li>
+    75 Credits：<b>₺99,99</b>
+  </li><li>
+    Weekly Pass：<b>₺99,99</b>
+  </li><li>
+    Early Access：<b>₺49,99</b>
+  </li><li>
+    150 Kredi：<b>₺149,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Foggy streets, dark secrets, and a hidden story at every corner.
+
+Case No: 1937 is a choice-based detective game that immerses you in the magical yet dangerous atmosphere of the past. In this interactive experience, you step into the shoes of master detective Refik Bey and chase unsolved cases throughout Istanbul.
+
+Every decision alters the course of events. Sometimes a conversation with a suspect, other times a simple clue can lead you to a completely different ending. You can replay the same story in different ways, uncover hidden endings, and explore branching narratives to shed light on Istanbul’s shadowy history.
+
+Are you ready to solve your first case as Refik Bey?
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grand Agent: It Call]]></title>
@@ -1753,305 +1828,5 @@ Every decision alters the course of events. Sometimes a conversation with a susp
 
 Are you ready to solve your first case as Refik Bey?
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CASE No: 1937]]></title>
-        <id>CASE No: 1937-tr-1751635567609</id>
-        <link href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4"/>
-        <updated>2025-07-04T13:26:07.609Z</updated>
-        <summary type="html"><![CDATA[Price: ₺29,99 → ₺19,90]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e3/3c/96e33c6d-17b2-49c2-dbf4-861951fd8a42/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺29,99</span> → <b>
-  <strong>₺19,90</strong>
-</b><span>[₺2,99 ~ ₺29,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺19,90</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    10 Credits：<b>₺29,99</b>
-  </li><li>
-    30 Credits：<b>₺79,99</b>
-  </li><li>
-    Weekly Pass：<b>₺99,99</b>
-  </li><li>
-    Early Access：<b>₺49,99</b>
-  </li><li>
-    75 Credits：<b>₺149,99</b>
-  </li><li>
-    150 Kredi：<b>₺249,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Foggy streets, dark secrets, and a hidden story at every corner.
-
-Case No: 1937 is a choice-based detective game that immerses you in the magical yet dangerous atmosphere of the past. In this interactive experience, you step into the shoes of master detective Refik Bey and chase unsolved cases throughout Istanbul.
-
-Every decision alters the course of events. Sometimes a conversation with a suspect, other times a simple clue can lead you to a completely different ending. You can replay the same story in different ways, uncover hidden endings, and explore branching narratives to shed light on Istanbul’s shadowy history.
-
-Are you ready to solve your first case as Refik Bey?
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[myLightMeter PRO]]></title>
-        <id>myLightMeter PRO-tr-1751624018196</id>
-        <link href="https://apps.apple.com/tr/app/mylightmeter-pro/id583922375?uo=4"/>
-        <updated>2025-07-04T10:13:38.196Z</updated>
-        <summary type="html"><![CDATA[Price: ₺229,99 → ₺179,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/mylightmeter-pro/id583922375?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3d/6f/fb3d6f47-17e4-83d0-f0a0-8a10522fe7c4/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺229,99</span> → <b>
-  <strong>₺179,99</strong>
-</b><span>[₺179,99 ~ ₺229,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺179,99</b>
-</p><h2>Application Description</h2><p>
-  Designed by a photographer for photographers, focused on RELIABILITY and PRECISION for digital and analog photography.
-
-• Extended sensitivity as low as -2/-4EV (dark scenes)
-
-• Two different convenient interface designs.
-
-• Incident and reflected light metering modes.
-
-• Save exposure data.
-
-• f/Tools connection.
-
-• Independent calibration for the two metering modes.
-
-• Independent selection of aperture, speed, ISO and exposure compensation with 1/3 resolution. From 4 hours to 1/8000 sec., aperture from 1.0 to 512 and ISO from 0.8 to 6400.
-
-• Automatic priority for aperture or speed. (Automatic Av and Tv modes).
-
-• Automatic ISO or locked ISO options.
-
-• Point metering in camera view.
-
-• Maximum aperture limited by the selected lens.
-
-• Calculate the average of any number of measurements you want.
-
-• Read the exposure data of any photo from the gallery.
-
-• Calculate hyperfocal distance for 5 memorized lenses. Which also blocks maximum aperture.
-
-• Memory for 5 lenses with maximum aperture, focal length and film/sensor size for calculating hyperfocal distance and aperture.
-
-• Hyperfocal distance also for infrared light. (IR button)
-
-• Exposure value EV on an analog scale or right up front.
-
-• On 3.5 " displays preset lens buttons tilting the device or tapping at the bottom.
-
-• Be advised that accurate incident light reading needs a diffuser attached to the front camera. Without the diffuser still can be used but think about it, it will be a reflected reading taken with the front camera.
-
-I'm an independent photographer/designer/developer and am very grateful for your support. Trying to do the best lightmeter app ever, a lot more to come. You can ask for any improvement and I'll be happy to help. This app is constantly reviewed and improved because it is my tool, if you have any questions or suggestions feel free to contact me by email at davidquiles@me.com
-
-Thank you!
-
-David Quiles
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/07/ac/1207acb9-43a9-0532-f05d-e0a1bddd4369/mzl.wjlkzesd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/6f/be/4a6fbeca-4aec-15ba-4ca5-5d5a215f6e89/mzl.bwjvsexd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/17/f9/6117f90d-ad41-c810-608b-4f8e3b8204ae/mzl.eahombit.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/a3/80/a7a380a1-a371-9c57-d960-114d33355195/mzl.tuazbmqa.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TuneIn Radio: Music & Sports]]></title>
-        <id>TuneIn Radio: Music &amp; Sports-tr-1751606130344</id>
-        <link href="https://apps.apple.com/tr/app/tunein-radio-music-sports/id319295332?uo=4"/>
-        <updated>2025-07-04T05:15:30.344Z</updated>
-        <summary type="html"><![CDATA[TuneIn Premium: ₺209,99 → ₺65,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tunein-radio-music-sports/id319295332?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/3b/3a/553b3aba-3f13-b065-4caa-1dd9c9e2ebe3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>TuneIn Premium：</strong><span>₺209,99</span> → <b>
-  <strong>₺65,99</strong>
-</b><span>[₺65,99 ~ ₺209,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺449,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    TuneIn Premium：<b>₺65,99</b>
-  </li><li>
-    TuneIn Premium Pro：<b>₺699,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  RADIO, YOUR WAY
-
-Listen to all the live news, sports, music, podcasts and radio you love, from around the world—all on the TuneIn app.
-
-TuneIn Pro is a special version of the TuneIn app that, for a one-time fee, removes visual display ads and pre-roll commercials that normally play before content begins.
-
-ALL YOUR AUDIO IN ONE APP.
-
-• News: Stay informed with 24/7 news from local, national, and global sources, including CNN, MSNBC, FOX News Radio, NPR, and BBC.
-
-• Sports: Listen to live NFL, NHL, and college games, anywhere you go, plus local, national, and global sports talk stations. And, get instant gametime notifications and customized listening when you pick your teams on the app.
-
-• Music: Find tunes for any mood with exclusive music channels, including Today's Hits, Classic Rock Hits, and Country Roads.
-
-• Podcasts: Follow your passions and stream your favorite podcasts.
-
-• Radio: Stream your more than 100,000 AM, FM, and internet radio stations broadcasting from 197 countries.
-
-
-UNLOCK EVEN MORE WITH TUNEIN PREMIUM
-
-Sign up for the optional TuneIn Premium plan to hear:
-
-• Live Sports: Never miss a moment with live home radio broadcasts of every single NFL and NHL game, plus the biggest college football and basketball teams.
-
-• News with Fewer Ad Breaks: Keep up with breaking news with fewer ad breaks from CNBC, CNN, FOX News Radio, MSNBC, and more.
-
-• Commercial-Free Music: Enjoy curated music stations, nonstop with no ads.
-
-• Fewer Ads: Hear 100,000+ radio stations with fewer ads and commercial breaks.
-
-
-WHAT YOU GET WITH THE TUNEIN APP
-
-1. NEWS FROM ALL SIDES
-
-Experience live 24/7 news from CNN, MSNBC, FOX News Radio, BBC, NPR, CNBC, and Cheddar, plus local stations like KQED-FM, WNYC-FM, KCRW, WHYY, WTMJ, and WAMU. Or get specific with news podcasts.
-
-2. UNRIVALED LIVE SPORTS & SPORTS TALK
-
-Fuel your fandom with live play-by-play of NFL, NHL, and college football and basketball. Plus, hear news, analysis, and fan discussions from sports talk stations like ESPN Radio and talkSPORT. And, receive gametime notifications and customized content when you pick your favorite teams on the app. Plus, listen to podcasts covering your football, baseball, basketball, and hockey obsession from every angle.
-
-3. MUSIC FOR EVERY MOOD
-
-Listen to the perfect music for every moment with TuneIn's exclusive, curated stations. Or listen to local stations and programs from the best AM/FM channels in the world.
-
-4. PODCASTS FOR ANY PASSION
-
-From trending chart-toppers to niche favorites, follow shows like RadioLab, Stuff You Should Know, and TED Radio Hour, and top-rated hits like NPR's Up First, NYT's The Daily, Wow in the World, and more.
-
-5. LISTEN WHEREVER YOU ARE
-
-In addition to the mobile and desktop app, TuneIn is available for free on hundreds of connected devices, including Apple Watch, CarPlay, Google Home, Amazon Echo and Alexa, Sonos, Bose, Roku, Chromecast, and more.
-
-
-Subscribe to TuneIn Radio Premium through the free app. If you choose to subscribe, you will be charged a monthly subscription fee according to your country. The subscription fee will be shown in the app before you complete the payment. Your subscription will automatically renew every month at the then-current subscription fee unless auto-renew is turned off at least 24 hours before the end of the then-current subscription period. Your iTunes account will automatically be charged within 24 hours prior to the end of the then-current period. The subscription fee will be charged monthly. You can turn off auto-renew at any time from your iTunes account settings.
-
-Privacy policy: http://tunein.com/policies/privacy/
-Terms of use: http://tunein.com/policies/
-
-TuneIn uses Nielsen measurement software which allows you to contribute to market research, like Nielsen’s TV Ratings. To learn more about Nielsen's products and your privacy, please visit http://www.nielsen.com/digitalprivacy for more information.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/45/1f/7a/451f7adc-e4aa-422f-13bb-2d36d7c754fd/ff0539f7-a9f7-4be8-bf0d-cccdf45f6bbc_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/07/67/8d/07678dd2-a464-c9e4-2c7d-bc5c4feaf6a1/bc404670-4324-4855-b360-4a4ed9b6dc98_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/20/43/c9/2043c9a9-1014-12cb-a53c-bea2ef1c0011/8ae61e0d-5b9d-4e7b-a266-81a725dd8416_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e4/99/95/e49995ff-fdd9-ef8d-37f2-29fc253e3cf4/6e651d24-f028-4ed0-9ef7-0f5e037a0c22_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/60/ae/7860aebd-dd82-7bc9-2fec-568c313f1c24/530f9281-59ed-45d9-82ff-25c0af0d3e8d_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/34/62/183462ce-d27a-8efd-de32-dfe508c9ac3a/c5e4c454-c205-4180-a0df-3f4d244d1475_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/84/35/c28435ce-03d8-7aed-5394-3bb7a42533b8/bb528b9b-2153-4383-b4bc-37ea2c8c57cb_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9e/9d/ae/9e9daeae-1630-6f01-23e0-1fe43e152d32/8622f585-3a40-449f-a225-00c6f252ad1f_7.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/27/35/6b27358e-f302-8b6c-33dc-50ed5ec34461/cc360a2b-243c-4a41-9e7e-b09c97844846_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/d3/f6/3dd3f6cc-c42f-997c-66a3-78cd56ca8dae/dde3e537-3a00-4bd6-98bd-0c8101e72fd0_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/0d/83/260d8344-36e0-651f-76b9-dffa48fb60b9/8bfa7d4a-e300-4281-8de0-b07dee47daaa_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/0a/70/e80a70c3-1421-82b5-958d-8b0f4204f9a4/c9f7f461-b3dd-495c-8f53-f3f66ffe2cd0_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/6b/a9/646ba92e-40c7-df9e-47ef-21ade4fe3277/18234b92-635c-4151-8ec7-d3d645729f88_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/f7/a4/bbf7a491-2436-e109-209c-996cf68b2fa6/a0269f32-314c-43c6-8a4b-fb0df43924ae_6.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yōkai Retreat SP Yin Yang-Sama]]></title>
-        <id>Yōkai Retreat SP Yin Yang-Sama-tr-1751603002383</id>
-        <link href="https://apps.apple.com/tr/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4"/>
-        <updated>2025-07-04T04:23:22.383Z</updated>
-        <summary type="html"><![CDATA[Price: ₺4,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/1e/99531ed3-bec8-86a5-1900-8fb6fb5049e2/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺4,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺449,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>₺129,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  You will become a brave guardian and embark on an adventure to a shrine surrounded by monsters to help the Onmyoji dispel evil and liberate the trapped monster girl.
-
-The game adopts the classic horizontal version of the game. The character you control holds a weapon and stands in the center of the screen, advancing through the various scenes of the shrine as you operate. The road ahead is full of monsters that are malicious to you. They are lurking in the shadows or flying in the air, ready to attack you at any time. You need to keep firing bullets to repel these monsters and protect your way forward.
-
-In the process of moving forward, you can collect gold coins and various props floating in the air by controlling the character to jump upwards. Gold coins are an important resource in the game, which can be used to unlock more powerful weapons and upgrade your equipment. Props can provide you with immediate help, such as increasing the number of bullets, increasing the power of weapons, and obtaining a short invincible state. Reasonable use of these props will make you more calm when facing powerful monsters.
-
-As you continue to defeat monsters, the distance you travel will become longer and longer, and every corner of the shrine will be gradually liberated by you. Each level has a different scene setting, from the ancient shrine courtyard to the deep woods, to the mysterious basement, each scene has unique monsters and challenges waiting for you. You need to flexibly control the character, dodge the monster's attacks, and accurately fire bullets to eliminate the enemy.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TuneIn Radio: Music & Sports]]></title>
-        <id>TuneIn Radio: Music &amp; Sports-tr-1751603002383</id>
-        <link href="https://apps.apple.com/tr/app/tunein-radio-music-sports/id319295332?uo=4"/>
-        <updated>2025-07-04T04:23:22.383Z</updated>
-        <summary type="html"><![CDATA[TuneIn Premium Pro: ₺699,99 → ₺249,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tunein-radio-music-sports/id319295332?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/3b/3a/553b3aba-3f13-b065-4caa-1dd9c9e2ebe3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>TuneIn Premium Pro：</strong><span>₺699,99</span> → <b>
-  <strong>₺249,99</strong>
-</b><span>[₺249,99 ~ ₺699,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺449,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    TuneIn Premium：<b>₺209,99</b>
-  </li><li>
-    TuneIn Premium Pro：<b>₺249,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  RADIO, YOUR WAY
-
-Listen to all the live news, sports, music, podcasts and radio you love, from around the world—all on the TuneIn app.
-
-TuneIn Pro is a special version of the TuneIn app that, for a one-time fee, removes visual display ads and pre-roll commercials that normally play before content begins.
-
-ALL YOUR AUDIO IN ONE APP.
-
-• News: Stay informed with 24/7 news from local, national, and global sources, including CNN, MSNBC, FOX News Radio, NPR, and BBC.
-
-• Sports: Listen to live NFL, NHL, and college games, anywhere you go, plus local, national, and global sports talk stations. And, get instant gametime notifications and customized listening when you pick your teams on the app.
-
-• Music: Find tunes for any mood with exclusive music channels, including Today's Hits, Classic Rock Hits, and Country Roads.
-
-• Podcasts: Follow your passions and stream your favorite podcasts.
-
-• Radio: Stream your more than 100,000 AM, FM, and internet radio stations broadcasting from 197 countries.
-
-
-UNLOCK EVEN MORE WITH TUNEIN PREMIUM
-
-Sign up for the optional TuneIn Premium plan to hear:
-
-• Live Sports: Never miss a moment with live home radio broadcasts of every single NFL and NHL game, plus the biggest college football and basketball teams.
-
-• News with Fewer Ad Breaks: Keep up with breaking news with fewer ad breaks from CNBC, CNN, FOX News Radio, MSNBC, and more.
-
-• Commercial-Free Music: Enjoy curated music stations, nonstop with no ads.
-
-• Fewer Ads: Hear 100,000+ radio stations with fewer ads and commercial breaks.
-
-
-WHAT YOU GET WITH THE TUNEIN APP
-
-1. NEWS FROM ALL SIDES
-
-Experience live 24/7 news from CNN, MSNBC, FOX News Radio, BBC, NPR, CNBC, and Cheddar, plus local stations like KQED-FM, WNYC-FM, KCRW, WHYY, WTMJ, and WAMU. Or get specific with news podcasts.
-
-2. UNRIVALED LIVE SPORTS & SPORTS TALK
-
-Fuel your fandom with live play-by-play of NFL, NHL, and college football and basketball. Plus, hear news, analysis, and fan discussions from sports talk stations like ESPN Radio and talkSPORT. And, receive gametime notifications and customized content when you pick your favorite teams on the app. Plus, listen to podcasts covering your football, baseball, basketball, and hockey obsession from every angle.
-
-3. MUSIC FOR EVERY MOOD
-
-Listen to the perfect music for every moment with TuneIn's exclusive, curated stations. Or listen to local stations and programs from the best AM/FM channels in the world.
-
-4. PODCASTS FOR ANY PASSION
-
-From trending chart-toppers to niche favorites, follow shows like RadioLab, Stuff You Should Know, and TED Radio Hour, and top-rated hits like NPR's Up First, NYT's The Daily, Wow in the World, and more.
-
-5. LISTEN WHEREVER YOU ARE
-
-In addition to the mobile and desktop app, TuneIn is available for free on hundreds of connected devices, including Apple Watch, CarPlay, Google Home, Amazon Echo and Alexa, Sonos, Bose, Roku, Chromecast, and more.
-
-
-Subscribe to TuneIn Radio Premium through the free app. If you choose to subscribe, you will be charged a monthly subscription fee according to your country. The subscription fee will be shown in the app before you complete the payment. Your subscription will automatically renew every month at the then-current subscription fee unless auto-renew is turned off at least 24 hours before the end of the then-current subscription period. Your iTunes account will automatically be charged within 24 hours prior to the end of the then-current period. The subscription fee will be charged monthly. You can turn off auto-renew at any time from your iTunes account settings.
-
-Privacy policy: http://tunein.com/policies/privacy/
-Terms of use: http://tunein.com/policies/
-
-TuneIn uses Nielsen measurement software which allows you to contribute to market research, like Nielsen’s TV Ratings. To learn more about Nielsen's products and your privacy, please visit http://www.nielsen.com/digitalprivacy for more information.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/45/1f/7a/451f7adc-e4aa-422f-13bb-2d36d7c754fd/ff0539f7-a9f7-4be8-bf0d-cccdf45f6bbc_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/07/67/8d/07678dd2-a464-c9e4-2c7d-bc5c4feaf6a1/bc404670-4324-4855-b360-4a4ed9b6dc98_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/20/43/c9/2043c9a9-1014-12cb-a53c-bea2ef1c0011/8ae61e0d-5b9d-4e7b-a266-81a725dd8416_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e4/99/95/e49995ff-fdd9-ef8d-37f2-29fc253e3cf4/6e651d24-f028-4ed0-9ef7-0f5e037a0c22_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/60/ae/7860aebd-dd82-7bc9-2fec-568c313f1c24/530f9281-59ed-45d9-82ff-25c0af0d3e8d_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/34/62/183462ce-d27a-8efd-de32-dfe508c9ac3a/c5e4c454-c205-4180-a0df-3f4d244d1475_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/84/35/c28435ce-03d8-7aed-5394-3bb7a42533b8/bb528b9b-2153-4383-b4bc-37ea2c8c57cb_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9e/9d/ae/9e9daeae-1630-6f01-23e0-1fe43e152d32/8622f585-3a40-449f-a225-00c6f252ad1f_7.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/27/35/6b27358e-f302-8b6c-33dc-50ed5ec34461/cc360a2b-243c-4a41-9e7e-b09c97844846_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/d3/f6/3dd3f6cc-c42f-997c-66a3-78cd56ca8dae/dde3e537-3a00-4bd6-98bd-0c8101e72fd0_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/0d/83/260d8344-36e0-651f-76b9-dffa48fb60b9/8bfa7d4a-e300-4281-8de0-b07dee47daaa_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/0a/70/e80a70c3-1421-82b5-958d-8b0f4204f9a4/c9f7f461-b3dd-495c-8f53-f3f66ffe2cd0_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/6b/a9/646ba92e-40c7-df9e-47ef-21ade4fe3277/18234b92-635c-4151-8ec7-d3d645729f88_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/f7/a4/bbf7a491-2436-e109-209c-996cf68b2fa6/a0269f32-314c-43c6-8a4b-fb0df43924ae_6.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
