@@ -31124,6 +31124,25 @@
     "history": [
       [
         {
+          "timestamp": 1751926372579,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Promote Pack 5": "₺699,99",
+            "Promote Pack 4": "₺449,99",
+            "Promote Pack 3": "₺349,99",
+            "Promote Pack 2": "₺229,99",
+            "Promote Pack 1": "₺129,99",
+            "Double backpack slots": "₺99,99",
+            "Genius Big Deal Pack": "₺99,99",
+            "Boxer Big Deal Pack": "₺99,99",
+            "Double Bonus": "₺99,99",
+            "A Large Bag of Gems": "₺899,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750512109135,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -47039,6 +47058,22 @@
       "The Dragon": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751926372579,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Jin Token": "₺449,99",
+            "Speed Die": "₺229,99",
+            "Fantasy Beach Bundle": "₺499,99",
+            "Starseeker Token": "₺449,99",
+            "Enchanted Forest Marine Bundle": "₺499,99",
+            "LA Monstropolis Marine Bundle": "₺499,99",
+            "The Rainbow Bundle": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751689061971,
