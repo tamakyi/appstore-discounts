@@ -11,12 +11,12 @@
 |1197|6448201153|自动|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|
 |1196|1575414319|自动|❌|Dune: Imperium|Dune: Imperium|Dune: Imperium|Dune: Imperium|Dune: Imperium|
 |1195|1566275194|自动|❌|森林露營物語|森林露營物語|森林露營物語|Forest Camp Story|Forest Camp Story|
-|1194|6747758553|自动|❌|Grand Agent: It Call|❌|Grand Agent: It Call|Grand Agent: It Call|Grand Agent: It Call|
+|1194| ~~6747758553~~ |自动| ~~❌~~ | ~~Grand Agent: It Call~~ | ~~❌~~ | ~~Grand Agent: It Call~~ | ~~Grand Agent: It Call~~ | ~~Grand Agent: It Call~~ |
 |1193|509223426|自动|❌|Absolute RC Heli Simulator|Absolute RC Heli Simulator|Absolute RC Heli Simulator|Absolute RC Heli Simulator|Absolute RC Heli Simulator|
 |1192|389083586|自动|MDict|MDict|MDict|MDict|MDict|MDict|
 |1191|627818916|自动|❌|海鮮壽司物語|海鮮壽司物語|海鮮壽司物語|The Sushi Spinnery|The Sushi Spinnery|
 |1190|1086456790|自动|SRR Counter for Dogs & Cats|SRR Counter for Dogs & Cats|SRR Counter for Dogs & Cats|SRR Counter for Dogs & Cats|SRR Counter for Dogs & Cats|SRR Counter for Dogs & Cats|
-|1189|6746355331|自动|❌|Stop&Get Away From Me! Defense|❌|Stop&Get Away From Me! Defense|Stop&Get Away From Me! Defense|Stop&Get Away From Me! Defense|
+|1189| ~~6746355331~~ |自动| ~~❌~~ | ~~Stop&Get Away From Me! Defense~~ | ~~❌~~ | ~~Stop&Get Away From Me! Defense~~ | ~~Stop&Get Away From Me! Defense~~ | ~~Stop&Get Away From Me! Defense~~ |
 |1188|1330451888|自动|❌|Pocket City|Pocket City|Pocket City|Pocket City|Pocket City|
 |1187|576443892|自动|Logo Creator & Maker|Logo Creator & Maker|Logo Creator & Maker|Logo Creator & Maker|Logo Creator゜|Logo Creator & Maker|
 |1186|1297430468|自动|❌|Florence|Florence|Florence|Florence|Florence|
@@ -28,7 +28,7 @@
 |1180|6746683191|自动|❌|VAKA No: 1937|VAKA No: 1937|VAKA No: 1937|CASE No: 1937|CASE No: 1937|
 |1179|1507562429|自动|❌|華夏人生|華夏人生|華夏人生|❌|❌|
 |1178|6745999173|自动|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|
-|1177|6746633753|自动|❌|Yōkai Retreat SP Yin Yang-Sama|❌|Yōkai Retreat SP Yin Yang-Sama|Yōkai Retreat SP Yin Yang-Sama|Yōkai Retreat SP Yin Yang-Sama|
+|1177| ~~6746633753~~ |自动| ~~❌~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ | ~~❌~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ |
 |1176|1062515791|自动|❌|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|The House of Da Vinci|
 |1175|1631790409|自动|❌|Starri 星動旋律|Starri 星動旋律|Starri 星動旋律|Starri - Move to music|Starri - Move to music|
 |1174|6742321646|自动|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|WSET 3 Trainer Pro|
