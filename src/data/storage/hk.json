@@ -24448,6 +24448,27 @@
       ]
     ]
   },
+  "890388924": {
+    "name": "Carrier Landings Pro",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751929935086,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "890791581": {
     "name": "樂客導航王全3D Pro",
     "maxPriceInfo": {

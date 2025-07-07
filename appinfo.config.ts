@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 890388924,
+    name: {
+      mo: 'Carrier Landings Pro',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6478287619,
     name: {
       mo: 'Exploding Kittens® 2',

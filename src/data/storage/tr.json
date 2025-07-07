@@ -353,7 +353,8 @@
       "Superbowl Skin Pack": "₺39,99",
       "Candy Land Pack": "₺39,99",
       "Underwater World Pack": "₺39,99",
-      "Mafia Pack": "₺39,99"
+      "Mafia Pack": "₺39,99",
+      "Retro Games SkinPack": "₺39,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -376,9 +377,28 @@
       "Superbowl Skin Pack": "₺39,99",
       "Candy Land Pack": "₺39,99",
       "Underwater World Pack": "₺39,99",
-      "Mafia Pack": "₺39,99"
+      "Mafia Pack": "₺39,99",
+      "Retro Games SkinPack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751929935086,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Tyrannosaurus Rex Skin Pack": "₺39,99",
+            "Halloween Skin Pack": "₺39,99",
+            "Holiday Skin Pack": "₺39,99",
+            "Dance Pack Too": "₺39,99",
+            "Alien Pack": "₺39,99",
+            "Ice Monster Skin Pack": "₺39,99",
+            "Retro Games SkinPack": "₺39,99",
+            "Medieval Pack": "₺39,99",
+            "Japanese Skin Pack": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -19464,6 +19484,27 @@
       ]
     ]
   },
+  "890388924": {
+    "name": "Carrier Landings Pro",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751929935086,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "890791581": {
     "name": "樂客導航王全3D Pro",
     "maxPriceInfo": {
@@ -31123,6 +31164,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751929935086,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Fistful of Gems": "₺229,99",
+            "Genius Big Deal Pack": "₺99,99",
+            "Boxer Big Deal Pack": "₺99,99",
+            "Promote Pack 3": "₺349,99",
+            "Buy 100 Gems": "₺39,99",
+            "Promote Pack 5": "₺699,99",
+            "Promote Pack 4": "₺449,99",
+            "Promote Pack 2": "₺229,99",
+            "Promote Pack 1": "₺129,99",
+            "Double backpack slots": "₺99,99"
+          }
+        },
         {
           "timestamp": 1751926372579,
           "price": 9.99,
@@ -47060,6 +47118,23 @@
     "history": [
       [
         {
+          "timestamp": 1751929935086,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "New York 2121 Board": "₺249,99",
+            "Orient Express": "₺129,99",
+            "The Complete Collection": "₺1.499,99",
+            "Welcome Offer": "₺899,99",
+            "The Sports Car": "₺129,99",
+            "Golden Dice": "₺229,99",
+            "Victorian London Board": "₺249,99",
+            "Lava Dice": "₺229,99",
+            "Champions Token Bundle": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1751926372579,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -59247,6 +59322,16 @@
       "Mr. X Nightmare DLC": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751929935086,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750695365912,
