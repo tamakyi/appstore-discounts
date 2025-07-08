@@ -45779,6 +45779,23 @@
     "history": [
       [
         {
+          "timestamp": 1751981334749,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_3": "HK$ 163.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00"
+          }
+        },
+        {
           "timestamp": 1751948613305,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -53468,6 +53485,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751981334749,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "UPGRADE PRO VERSION": "HK$ 488.00",
+            "UPGRADE PRO": "HK$ 288.00",
+            "KODAK SERIES FILM": "HK$ 48.00",
+            "FUJI SERIES FILM": "HK$ 38.00",
+            "RETRO SERIES FILM": "HK$ 38.00",
+            "IU SERIES FILM": "HK$ 38.00",
+            "LOMO SERIES": "HK$ 38.00",
+            "WEDDING SERIES FILM": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1751977579483,
           "price": 32,
