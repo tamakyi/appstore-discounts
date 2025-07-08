@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1431466900,
+    name: {
+      mo: 'Word Root Dictionary',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1519754224,
+    name: {
+      mo: 'Spanish Word Parts',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1571643809,
+    name: {
+      mo: '地城謎蹤',
+    },
+    addType: 'auto',
+  },
+  {
     id: 890388924,
     name: {
       mo: 'Carrier Landings Pro',

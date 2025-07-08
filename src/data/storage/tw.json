@@ -51506,6 +51506,27 @@
       ]
     ]
   },
+  "1431466900": {
+    "name": "Word Root Dictionary",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1435140819": {
     "name": "Very Little Nightmares",
     "maxPriceInfo": {
@@ -63633,6 +63654,27 @@
       ]
     ]
   },
+  "1519754224": {
+    "name": "Spanish Word Parts",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
     "maxPriceInfo": {
@@ -66958,6 +67000,27 @@
             "Apollo Lunar Missions": "$0.00",
             "SkySafari Premium": "$990.00"
           }
+        }
+      ]
+    ]
+  },
+  "1571643809": {
+    "name": "地城謎蹤",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
         }
       ]
     ]

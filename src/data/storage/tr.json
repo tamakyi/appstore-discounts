@@ -41229,6 +41229,27 @@
       ]
     ]
   },
+  "1431466900": {
+    "name": "Word Root Dictionary",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1435004182": {
     "name": "Hermes: KAYIP",
     "maxPriceInfo": {
@@ -44722,6 +44743,25 @@
       "Black Friday Inferno": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "₺899,99",
+            "Dynasty Pet": "₺699,99",
+            "Ultimate Amulet": "₺249,99",
+            "Ultimate Ring": "₺249,99",
+            "Ultimate Pet": "₺249,99",
+            "Ultimate Ancient": "₺599,99",
+            "Royal Rune": "₺129,99",
+            "Norths Warden Pet Pack": "₺699,99",
+            "Norths Warden Set": "₺899,99",
+            "Black Friday Combo Items": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750201926797,
@@ -51930,6 +51970,27 @@
       ]
     ]
   },
+  "1519754224": {
+    "name": "Spanish Word Parts",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
     "maxPriceInfo": {
@@ -56602,6 +56663,27 @@
             "Sağlık Paketi": "₺3,99",
             "Erzak Paketi": "₺3,99"
           }
+        }
+      ]
+    ]
+  },
+  "1571643809": {
+    "name": "Dungeon and Puzzles",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
         }
       ]
     ]

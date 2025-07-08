@@ -3179,6 +3179,25 @@
     "history": [
       [
         {
+          "timestamp": 1751962698117,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "HK$ 188.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Haydn: String Quartets": "HK$ 18.00",
+            "Christmas Carol Collection": "HK$ 18.00",
+            "Bach: Cello Suites": "HK$ 18.00",
+            "Vivaldi: The Four Seasons": "HK$ 18.00",
+            "Mozart: Twelve Duets": "HK$ 18.00",
+            "The Mutopia Piano Collection": "HK$ 38.00",
+            "forScore Pro": "HK$ 118.00",
+            "Voluntary Upgrade": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750968834747,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -41057,6 +41076,25 @@
     "history": [
       [
         {
+          "timestamp": 1751962698117,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "HK$ 58.00",
+            "Hammerhold Campaign!": "HK$ 58.00",
+            "Tower Ignis Altar": "HK$ 22.00",
+            "Hero Grosh": "HK$ 38.00",
+            "Special Offer 27": "HK$ 58.00",
+            "Special Offer 24": "HK$ 58.00",
+            "Special Offer 21": "HK$ 58.00",
+            "Special Offer 20": "HK$ 58.00",
+            "Special Offer 19": "HK$ 58.00",
+            "Special Offer 18": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751776024555,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -53255,6 +53293,27 @@
           "timestamp": 1745384546601,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1431466900": {
+    "name": "Word Root Dictionary",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]
@@ -65547,6 +65606,27 @@
       ]
     ]
   },
+  "1519754224": {
+    "name": "Spanish Word Parts",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
     "maxPriceInfo": {
@@ -69225,6 +69305,27 @@
             "SkySafari Premium Monthly": "HK$ 33.00",
             "Apollo Lunar Missions": "HK$ 0.00"
           }
+        }
+      ]
+    ]
+  },
+  "1571643809": {
+    "name": "地城謎蹤",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
         }
       ]
     ]

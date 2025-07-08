@@ -52543,6 +52543,27 @@
       ]
     ]
   },
+  "1431466900": {
+    "name": "Word Root Dictionary",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1435140819": {
     "name": "Very Little Nightmares",
     "maxPriceInfo": {
@@ -64916,6 +64937,27 @@
       ]
     ]
   },
+  "1519754224": {
+    "name": "Spanish Word Parts",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
     "maxPriceInfo": {
@@ -69659,6 +69701,27 @@
             "GAIA Star Database": "$0.00",
             "Apollo Lunar Missions": "$0.00"
           }
+        }
+      ]
+    ]
+  },
+  "1571643809": {
+    "name": "Dungeon and Puzzles",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751962698117,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
