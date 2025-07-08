@@ -2903,6 +2903,14 @@
     "history": [
       [
         {
+          "timestamp": 1752016353471,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "HK$ 548.00"
+          }
+        },
+        {
           "timestamp": 1752012758658,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -8602,6 +8610,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752016353471,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "PowerLevel_5up": "HK$ 32.00",
+            "AllLevel_5up": "HK$ 88.00",
+            "PowerLevel_1Up": "HK$ 8.00",
+            "ContactLevel_5up": "HK$ 32.00",
+            "ContactLevel_1up": "HK$ 8.00",
+            "AllLevel_1up": "HK$ 22.00",
+            "EyeLevel_5up": "HK$ 32.00",
+            "EyeLevel_1up": "HK$ 8.00",
+            "GOLD BAT": "HK$ 118.00",
+            "Called Shot 50": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1752012758658,
           "price": 8,
@@ -34801,6 +34826,23 @@
     "history": [
       [
         {
+          "timestamp": 1752016353471,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "225,000 points": "HK$ 88.00",
+            "63,000 points": "HK$ 22.00",
+            "25,000 points": "HK$ 8.00",
+            "176,000 points": "HK$ 58.00",
+            "345,000 points": "HK$ 118.00",
+            "100,000 points": "HK$ 22.00",
+            "850,000 points": "HK$ 118.00",
+            "2,160,000 points": "HK$ 588.00",
+            "20,000 points": "HK$ 8.00",
+            "500,000 points": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1752012758658,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -44762,6 +44804,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752016353471,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Crop": "HK$ 0.00",
+            "Splice": "HK$ 0.00",
+            "Sticker": "HK$ 0.00",
+            "Rate": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00",
+            "Paint": "HK$ 0.00",
+            "Rotate": "HK$ 0.00",
+            "Distortion": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00",
+            "Info": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1752012758658,
           "price": 8,
