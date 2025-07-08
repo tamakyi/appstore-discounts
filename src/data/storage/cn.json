@@ -589,6 +589,25 @@
     "history": [
       [
         {
+          "timestamp": 1751948613305,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "¥58.00",
+            "ETC Module": "¥38.00",
+            "Transfer Function": "¥328.00",
+            "SoundScope VR": "¥168.00",
+            "Phase Meter": "¥58.00",
+            "LARSA": "¥198.00",
+            "SPL Graph Module": "¥68.00",
+            "Surround Generator": "¥298.00",
+            "Speaker Distortion": "¥38.00",
+            "VU Meter": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751559344641,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -19468,6 +19487,17 @@
       "高级版": "¥248.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751948613305,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium": "¥233.00",
+            "高级版": "¥248.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751245604024,
@@ -69506,6 +69536,25 @@
       "128元礼包": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751948613305,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元礼包": "¥6.00",
+            "18元礼包": "¥18.00",
+            "68元礼包": "¥68.00",
+            "30元礼包": "¥30.00",
+            "648元钻石": "¥648.00",
+            "1元礼包": "¥1.00",
+            "98元礼包": "¥98.00",
+            "328元钻石": "¥328.00",
+            "88元礼包": "¥88.00",
+            "128元钻石": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751776024555,

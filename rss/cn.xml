@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-06T20:36:26.200Z</updated>
+    <updated>2025-07-08T04:45:10.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T20:36:26.202Z</updated>
+        <updated>2025-07-08T04:45:10.004Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 06 Jul 2025 20:36:26 GMT</id>
+        <id>rankingcnTue, 08 Jul 2025 04:45:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-06T20:36:26.202Z</updated>
+        <updated>2025-07-08T04:45:10.004Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,16 +51,16 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1199</b>
+        <b>1204</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>998</b>
+        <b>1003</b>
       </td>
       <td>
-        <b>30</b>
+        <b>33</b>
       </td>
     </tr>
     <tr>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>649</b>
+        <b>650</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>487</b>
+        <b>488</b>
       </td>
       <td>
         <b>21</b>
@@ -146,14 +146,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1159266744">双子 Gemini</a>
+        <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Premium</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -163,7 +169,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1271620263">艾希 - ICEY</a>
+        <a href="https://apps.apple.com/cn/app/id1159266744">双子 Gemini</a>
       </td>
       <td>
         <ul>
@@ -180,7 +186,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1380582804">手机帝国</a>
+        <a href="https://apps.apple.com/cn/app/id1271620263">艾希 - ICEY</a>
       </td>
       <td>
         <ul>
@@ -197,7 +203,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
+        <a href="https://apps.apple.com/cn/app/id1380582804">手机帝国</a>
       </td>
       <td>
         <ul>
@@ -214,7 +220,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
       </td>
       <td>
         <ul>
@@ -231,7 +237,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
+        <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
       </td>
       <td>
         <ul>
@@ -246,6 +252,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1595313870">瓦尔登 - 日程管理，一个就够</a>
@@ -268,7 +291,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1624326561">真武三国  英雄集结</a>
@@ -291,7 +314,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1633243177">Ableton Note</a>
@@ -308,7 +331,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
@@ -325,7 +348,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -348,7 +371,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -365,7 +388,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444396120">挺进地牢</a>
@@ -382,7 +405,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -399,7 +422,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767315">便利店开业日记</a>
@@ -416,7 +439,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
@@ -433,7 +456,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6479307181">灵体侦测器</a>
@@ -450,7 +473,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738342400">Tampermonkey</a>
@@ -668,6 +691,83 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Day One Journal]]></title>
+        <id>Day One Journal-cn-1751948613305</id>
+        <link href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-07-08T04:23:33.305Z</updated>
+        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥233.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/dd/1a/d1dd1a90-59ec-4f22-a01b-932059d860b8/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>¥253.00</span> → <b>
+  <strong>¥233.00</strong>
+</b><span>[¥38.00 ~ ¥253.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    Premium：<b>¥233.00</b>
+  </li><li>
+    高级版：<b>¥248.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
+
+“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
+
+“Day One 使写日记变成了一件轻松愉快的事。”- Wired
+
+“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
+
+为什么选择 DAY ONE？
+
+Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
+
+易于使用，让您爱不释手
+
+• 备受赞誉的美观设计
+• 无限的文本日记条目
+• 无限量照片和视频*
+•功能强大的富文本格式，带有 Markdown 功能
+• 不同的日记类型适用于记录您生活的方方面面*
+
+私密且安全
+
+• 自动备份可确保日记条目的安全性
+• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
+•日记条目使用密码或 TouchID 来保证安全性
+•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
+
+养成习惯并坚持下去
+
+•可编程的提醒通知
+• 独特的每日日记提示功能有助于避免日记中断
+•可自定义的模板可节省时间，并可向日记条目中添加组织
+• 通过今日视图，您可以大致了解您去过哪里，做了什么
+
+随时随地写日记
+
+• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
+• 能够直接向您的日记发送文本或电子邮件条目
+
+专为记录回忆而生
+
+• 那年今日功能让您可以回顾过去的回忆
+• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
+• 地图视图可快速显示您在日记中记录的所有地点
+
+*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
+
+隐私政策：https://dayoneapp.com/privacy-policy/
+
+使用条款：https://dayoneapp.com/terms-of-use/
+
+如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tampermonkey]]></title>
         <id>Tampermonkey-cn-1751832797710</id>
         <link href="https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4"/>
@@ -879,67 +979,5 @@ QQ交流群3：203399926
   随时随地，将你想记录的文字，图片，视频，语音以及位置都得以妥善保存
 更有备忘提醒让繁忙的你无一错漏！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/cf/c9/78cfc91a-749b-6059-7753-91a5f18fa32a/808ab864-9f7e-461c-9376-5afabb2b32ff_8plus01cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/bb/72/8abb7218-bd3a-ccc9-b7dd-4f6935aaba0c/f1e2e929-0e38-499a-b257-84e86fda214d_8plus02cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ff/90/6bff9096-9ea9-e297-c474-81d547b496a6/668cabae-2249-40ec-8513-e2221fa3e9f9_8plus03cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/76/36/82763680-7c14-f4d3-261f-561fcf572289/35d443dc-757b-40ca-86d1-8ff86adb7bc8_8plus04cn.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[myLightMeter PRO]]></title>
-        <id>myLightMeter PRO-cn-1751627506367</id>
-        <link href="https://apps.apple.com/cn/app/mylightmeter-pro/id583922375?uo=4"/>
-        <updated>2025-07-04T11:11:46.367Z</updated>
-        <summary type="html"><![CDATA[价格: ¥38.00 → ¥28.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/mylightmeter-pro/id583922375?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3d/6f/fb3d6f47-17e4-83d0-f0a0-8a10522fe7c4/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥38.00</span> → <b>
-  <strong>¥28.00</strong>
-</b><span>[¥28.00 ~ ¥38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥28.00</b>
-</p><h2>应用描述</h2><p>
-  Designed by a photographer for photographers, focused on RELIABILITY and PRECISION for digital and analog photography.
-
-• Extended sensitivity as low as -2/-4EV (dark scenes)
-
-• Two different convenient interface designs.
-
-• Incident and reflected light metering modes.
-
-• Save exposure data.
-
-• f/Tools connection.
-
-• Independent calibration for the two metering modes.
-
-• Independent selection of aperture, speed, ISO and exposure compensation with 1/3 resolution. From 4 hours to 1/8000 sec., aperture from 1.0 to 512 and ISO from 0.8 to 6400.
-
-• Automatic priority for aperture or speed. (Automatic Av and Tv modes).
-
-• Automatic ISO or locked ISO options.
-
-• Point metering in camera view.
-
-• Maximum aperture limited by the selected lens.
-
-• Calculate the average of any number of measurements you want.
-
-• Read the exposure data of any photo from the gallery.
-
-• Calculate hyperfocal distance for 5 memorized lenses. Which also blocks maximum aperture.
-
-• Memory for 5 lenses with maximum aperture, focal length and film/sensor size for calculating hyperfocal distance and aperture.
-
-• Hyperfocal distance also for infrared light. (IR button)
-
-• Exposure value EV on an analog scale or right up front.
-
-• On 3.5 " displays preset lens buttons tilting the device or tapping at the bottom.
-
-• Be advised that accurate incident light reading needs a diffuser attached to the front camera. Without the diffuser still can be used but think about it, it will be a reflected reading taken with the front camera.
-
-I'm an independent photographer/designer/developer and am very grateful for your support. Trying to do the best lightmeter app ever, a lot more to come. You can ask for any improvement and I'll be happy to help. This app is constantly reviewed and improved because it is my tool, if you have any questions or suggestions feel free to contact me by email at davidquiles@me.com
-
-Thank you!
-
-David Quiles
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/07/ac/1207acb9-43a9-0532-f05d-e0a1bddd4369/mzl.wjlkzesd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/6f/be/4a6fbeca-4aec-15ba-4ca5-5d5a215f6e89/mzl.bwjvsexd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/17/f9/6117f90d-ad41-c810-608b-4f8e3b8204ae/mzl.eahombit.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/a3/80/a7a380a1-a371-9c57-d960-114d33355195/mzl.tuazbmqa.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
