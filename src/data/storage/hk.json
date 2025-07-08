@@ -12292,6 +12292,23 @@
     "history": [
       [
         {
+          "timestamp": 1751944485300,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "「日本香港組合包」": "HK$ 8.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "HK$ 8.00",
+            "大富翁4 Fun 美國地圖": "HK$ 8.00",
+            "大富翁 4 fun 韓國地圖組合包": "HK$ 8.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "HK$ 8.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "HK$ 8.00",
+            "大富翁 4 fun 樂園組合包": "HK$ 8.00",
+            "仙五地圖包": "HK$ 8.00",
+            "遺跡探險組合包": "HK$ 8.00",
+            "大富翁4 Fun夏日組合包": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1751936586003,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -23228,6 +23245,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751944485300,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00",
+            "$20 Credit": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1751936586003,
           "price": 38,
@@ -42282,6 +42316,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751944485300,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Miku": "HK$ 88.00",
+            "ConneR": "HK$ 88.00",
+            "CAPSO": "HK$ 88.00",
+            "Xenon": "HK$ 88.00",
+            "9 Characters": "HK$ 288.00",
+            "Cherry": "HK$ 88.00",
+            "Kizuna AI": "HK$ 88.00",
+            "Battle CHAOS 2019": "HK$ 38.00",
+            "Neko": "HK$ 88.00",
+            "Nora": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1751936586003,
           "price": 18,
@@ -65690,6 +65741,25 @@
       "Remove AD": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751944485300,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Package B": "HK$ 388.00",
+            "Daily Jewel Package": "HK$ 148.00",
+            "Lite Daily Jewel Package": "HK$ 68.00",
+            "Starter Package A": "HK$ 118.00",
+            "Remove AD": "HK$ 68.00",
+            "Jewel Package D": "HK$ 368.00",
+            "Jewel Package A": "HK$ 38.00",
+            "Jewel Package F": "HK$ 688.00",
+            "Jewel Package C": "HK$ 188.00",
+            "Jewel Package B": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750947141553,

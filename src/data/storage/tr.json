@@ -18608,6 +18608,23 @@
     "history": [
       [
         {
+          "timestamp": 1751944485300,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "$5 Credit": "₺249,99",
+            "1 Mo. CAN Texting": "₺119,99",
+            "1 Mo. Global Texting": "₺179,99",
+            "3 Mo. CAN Texting": "₺249,99",
+            "$20 Credit": "₺899,99",
+            "6 Mo. CAN Texting": "₺449,99",
+            "$50 Credit": "₺2.299,99",
+            "1 Mo. Fongo Plus": "₺449,99",
+            "3 Mo. Global Texting": "₺399,99",
+            "$10 Credit": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1751936586003,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -52146,6 +52163,25 @@
       "Remove AD": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751944485300,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Starter Package B": "₺2.299,99",
+            "Daily Jewel Package": "₺899,99",
+            "Lite Daily Jewel Package": "₺399,99",
+            "Starter Package A": "₺699,99",
+            "Remove AD": "₺399,99",
+            "Jewel Package D": "₺1.999,99",
+            "Jewel Package A": "₺229,99",
+            "Jewel Package F": "₺3.999,99",
+            "Jewel Package C": "₺999,99",
+            "Jewel Package B": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750979535544,

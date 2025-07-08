@@ -2962,6 +2962,23 @@
     "history": [
       [
         {
+          "timestamp": 1751944485300,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
+        {
           "timestamp": 1751936586003,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -7715,6 +7732,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751944485300,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        },
         {
           "timestamp": 1751936586003,
           "price": 14.99,
@@ -23121,10 +23155,18 @@
       "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751944485300,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751184924424,
@@ -65082,6 +65124,25 @@
     "history": [
       [
         {
+          "timestamp": 1751944485300,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Starter Package B": "$49.99",
+            "Daily Jewel Package": "$19.99",
+            "Lite Daily Jewel Package": "$8.99",
+            "Starter Package A": "$14.99",
+            "Remove AD": "$8.99",
+            "Jewel Package D": "$44.99",
+            "Jewel Package A": "$4.99",
+            "Jewel Package F": "$89.99",
+            "Jewel Package C": "$24.99",
+            "Jewel Package B": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750994070405,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -68208,6 +68269,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751944485300,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$4.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$9.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Midnight Night Out Pack": "$1.99",
+            "Fun & Games Sports Mix 3 Pack": "$0.99",
+            "Midnight Bedroom Pack": "$1.99",
+            "Mystery Mix Pack 1": "$0.99",
+            "Ready to Roast": "$2.99",
+            "Sports and Games Pack": "$2.99"
+          }
+        },
         {
           "timestamp": 1751936586003,
           "price": 1.99,
@@ -73582,6 +73660,16 @@
       "Mr. X Nightmare DLC": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751944485300,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750695365912,
