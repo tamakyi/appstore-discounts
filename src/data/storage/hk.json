@@ -12292,6 +12292,25 @@
     "history": [
       [
         {
+          "timestamp": 1751936586003,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "遺跡探險組合包": "HK$ 8.00",
+            "大富翁 4 fun 天使帝國組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 夢幻精靈島組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 古文明組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 妖怪村組合包": "HK$ 8.00",
+            "大富翁 4 fun 海底世界組合包": "HK$ 8.00",
+            "大富翁 4 fun 寶藏島組合包": "HK$ 8.00",
+            "大富翁 4 fun 水上世界組合包": "HK$ 8.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "HK$ 8.00",
+            "大富翁4 Fun夏日組合包": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751894898979,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -22875,10 +22894,18 @@
       "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751936586003,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751184924424,
@@ -23200,6 +23227,25 @@
       "6 Mo. Global Texting": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751936586003,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "HK$ 788.00",
+            "3 Mo. Fongo Ultimate": "HK$ 228.00",
+            "6 Mo. Fongo Ultimate": "HK$ 428.00",
+            "1 Mo. Fongo Ultimate": "HK$ 98.00",
+            "12 Mo. Remove Ads": "HK$ 128.00",
+            "6 Mo. Remove Ads": "HK$ 88.00",
+            "3 Mo. Remove Ads": "HK$ 42.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "12 Mo. Fongo Plus": "HK$ 688.00",
+            "12 Mo. Global Texting": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751519817013,
@@ -42235,6 +42281,25 @@
       "Stream Palette Selection": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751936586003,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Stream Palette Selection": "HK$ 38.00",
+            "HARDCORE TANO*C VOL.II": "HK$ 38.00",
+            "HARDCORE TANO*C": "HK$ 38.00",
+            "Cosmic Radio 2024": "HK$ 38.00",
+            "Miku Extend 2025": "HK$ 38.00",
+            "Paradigm: Reboot pt. 2": "HK$ 38.00",
+            "Paradigm: Reboot pt. 1": "HK$ 38.00",
+            "RAVON": "HK$ 38.00",
+            "NEKO_II": "HK$ 88.00",
+            "Rhythm Games Party 2024": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751862503189,

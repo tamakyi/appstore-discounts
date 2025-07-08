@@ -2962,6 +2962,25 @@
     "history": [
       [
         {
+          "timestamp": 1751936586003,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Príncipe Real HipstaPak": "$1.99",
+            "Coyoacán HipstaPak": "$1.99",
+            "Ohara HipstaPak": "$1.99",
+            "RetroPak 2022": "$6.99",
+            "RetroPak 2023": "$9.99",
+            "RetroPak Twenty-One": "$4.99",
+            "Highland Park HipstaPak": "$0.99",
+            "Pilsen HipstaPak": "$0.99",
+            "Tiong Bahru HipstaPak": "$0.99",
+            "Impressionist SnapPak": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750813387088,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -7695,6 +7714,25 @@
       "PsyTrance": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751936586003,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Ferrous Mobile": "$2.99",
+            "Hyper-Pop Mobile": "$2.99",
+            "Chip-Tune Mobile": "$2.99",
+            "Essential Winds": "$1.99",
+            "Essential Strings": "$1.99",
+            "DubTechno": "$1.99",
+            "Chill-Lo-Fi Mobile": "$1.99",
+            "Technocraft": "$1.99",
+            "Brazil Bass": "$1.99",
+            "PsyTrance": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750911731426,
@@ -68171,6 +68209,25 @@
     "history": [
       [
         {
+          "timestamp": 1751936586003,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Fun & Games Sports Mix 3 Pack": "$0.99",
+            "Holiday Thanksgiving Pack": "$0.99",
+            "Holiday Christmas Pack 2": "$0.99",
+            "Generations Gen Z Pack": "$0.99",
+            "Holiday Hannukah Pack": "$0.99",
+            "Mystery Mix Pack 16": "$0.99",
+            "Mystery Mix Pack 15": "$0.99",
+            "Mystery Mix Pack 14": "$0.99",
+            "Mystery Mix Pack 13": "$0.99",
+            "Mystery Mix Pack 12": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751699498384,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -86192,6 +86249,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751936586003,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "オーロラプール": "$1.19",
+            "ネオンシティ": "$1.79",
+            "Crimson Walk": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "2025春ネモフィラスキン": "$0.49",
+            "New Year's Sunrise": "$1.79"
+          }
+        },
         {
           "timestamp": 1751862503189,
           "price": 2.99,

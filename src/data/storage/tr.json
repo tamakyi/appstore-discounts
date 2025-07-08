@@ -383,6 +383,22 @@
     "history": [
       [
         {
+          "timestamp": 1751936586003,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Dance Pack Too": "₺39,99",
+            "Alien Pack": "₺39,99",
+            "Tyrannosaurus Rex Skin Pack": "₺39,99",
+            "Halloween Skin Pack": "₺39,99",
+            "Medieval Pack": "₺39,99",
+            "Holiday Skin Pack": "₺39,99",
+            "Ice Monster Skin Pack": "₺39,99",
+            "Japanese Skin Pack": "₺39,99",
+            "Shark Pack": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1751929935086,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -18305,10 +18321,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751936586003,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751184924424,
@@ -18582,6 +18606,25 @@
       "12 Mo. CAN Texting": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751936586003,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "₺4.499,99",
+            "3 Mo. Fongo Ultimate": "₺1.299,99",
+            "6 Mo. Fongo Ultimate": "₺2.499,99",
+            "1 Mo. Fongo Ultimate": "₺599,99",
+            "12 Mo. Remove Ads": "₺799,99",
+            "6 Mo. Remove Ads": "₺449,99",
+            "3 Mo. Remove Ads": "₺249,99",
+            "1 Mo. Remove Ads": "₺119,99",
+            "12 Mo. Fongo Plus": "₺3.999,99",
+            "12 Mo. Global Texting": "₺1.199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750306878199,
@@ -47051,7 +47094,8 @@
       "American Roadtrips Expl. Pack": "₺99,99",
       "Handbag Token": "₺129,99",
       "Jin Token": "₺449,99",
-      "The Dragon": "₺129,99"
+      "The Dragon": "₺129,99",
+      "Scotty Dog Token": "₺129,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -47113,10 +47157,28 @@
       "American Roadtrips Expl. Pack": "₺99,99",
       "Handbag Token": "₺129,99",
       "Jin Token": "₺449,99",
-      "The Dragon": "₺129,99"
+      "The Dragon": "₺129,99",
+      "Scotty Dog Token": "₺129,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1751936586003,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "New York 2121 Board": "₺249,99",
+            "Orient Express": "₺129,99",
+            "The Complete Collection": "₺1.499,99",
+            "Welcome Offer": "₺899,99",
+            "The Sports Car": "₺129,99",
+            "Golden Dice": "₺229,99",
+            "Victorian London Board": "₺249,99",
+            "Scotty Dog Token": "₺129,99",
+            "Lava Dice": "₺229,99"
+          }
+        },
         {
           "timestamp": 1751929935086,
           "price": 229.99,
