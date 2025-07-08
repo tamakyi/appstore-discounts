@@ -95865,5 +95865,26 @@
         }
       ]
     ]
+  },
+  "6740349587": {
+    "name": "Backyard Baseball '01",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752005659477,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }

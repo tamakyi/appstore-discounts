@@ -86537,6 +86537,24 @@
     "history": [
       [
         {
+          "timestamp": 1752005659477,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "ネオンシティ": "$1.79",
+            "夏色クリームソーダ": "$1.19",
+            "オーロラプール": "$1.19",
+            "フルーツパーラー": "$1.19",
+            "2025春イースタースキン": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Letter from Nemophila": "$1.19"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751936586003,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -99175,6 +99193,27 @@
           "timestamp": 1751973117115,
           "price": 8.99,
           "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740349587": {
+    "name": "Backyard Baseball '01",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752005659477,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

@@ -95569,5 +95569,26 @@
         }
       ]
     ]
+  },
+  "6740349587": {
+    "name": "Backyard Baseball '01",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752005659477,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }
