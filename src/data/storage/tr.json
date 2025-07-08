@@ -66637,14 +66637,22 @@
   "6743487416": {
     "name": "Gold Miner - Watch Games",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751969641637,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -70588,6 +70596,25 @@
       "Junkers Ju 52": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751969641637,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Global scenery - 12 months": "₺399,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "UH-60": "₺39,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A321": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751829000381,
