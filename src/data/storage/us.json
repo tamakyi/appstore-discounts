@@ -86537,6 +86537,23 @@
     "history": [
       [
         {
+          "timestamp": 1752009134954,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "オーロラプール": "$1.19",
+            "ネオンシティ": "$1.79",
+            "2025春ネモフィラスキン": "$0.49",
+            "Crimson Walk": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "New Year's Sunrise": "$1.79"
+          }
+        },
+        {
           "timestamp": 1752005659477,
           "price": 2.99,
           "formattedPrice": "$2.99",
