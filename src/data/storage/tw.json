@@ -43199,6 +43199,24 @@
     "history": [
       [
         {
+          "timestamp": 1752012758658,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$100.00",
+            "Power Builder (yearly)": "$860.00",
+            "Power Builder (weekly)": "$40.00",
+            "The Ultimate Tip": "$1,990.00",
+            "Super Mega Smashing Tip": "$990.00",
+            "Super Smashing Tip": "$590.00",
+            "Super Mega Tip": "$320.00",
+            "Mega Tip": "$190.00",
+            "Super Tip": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751469218233,
           "price": 30,
           "formattedPrice": "$30.00",

@@ -45163,6 +45163,25 @@
     "history": [
       [
         {
+          "timestamp": 1752012758658,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "TeaSet DarkLord Skin Package C": "$4.99",
+            "Teaset Dark Lord Skin PackageB": "$4.99",
+            "Teaset DarkLord Skin Package A": "$4.99",
+            "Little Corr. Hero costume Pack": "$25.99",
+            "Little Hero Costume Package": "$25.99",
+            "Black Dark Lord Skin Package": "$7.99",
+            "White Dark Lord Skin Package": "$7.99",
+            "Awakening Viper Package": "$4.99",
+            "Myth full pack": "$39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751692350639,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -94307,6 +94326,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752012758658,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "Season MLB 1993": "$0.99",
+            "Season MLB 2024": "$0.99",
+            "Bundle MLB 1980s": "$4.99"
+          }
+        },
         {
           "timestamp": 1751969641637,
           "price": 9.99,
