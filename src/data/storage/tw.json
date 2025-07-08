@@ -3305,6 +3305,25 @@
     "history": [
       [
         {
+          "timestamp": 1751951669852,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "基础会员-连续包月": "$60.00",
+            "基础会员1个月(尝鲜)": "$30.00",
+            "空间会员·365G-3年（活动）": "$2,490.00",
+            "空间会员·365G-1年（活动）": "$1,290.00",
+            "专业会员·无限版-1个月（活动）": "$490.00",
+            "专业会员·无限版-12个月（活动）": "$4,990.00",
+            "专业会员·10人版-12个月（活动）": "$2,490.00",
+            "专业会员·10人版-1个月（活动）": "$290.00",
+            "专业会员·5人版-1个月（活动）": "$150.00",
+            "专业会员·5人版-12个月（活动）": "$1,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751606130344,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -19258,6 +19277,25 @@
       "As Seen On TV": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751951669852,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Holiday Offer Native July 2025": "$690.00",
+            "Kids Favs Bundle": "$190.00",
+            "Animation Bundle Sale": "$150.00",
+            "Animated Movies Deck": "$60.00",
+            "Animation Bundle": "$190.00",
+            "Kids Favs Bundle Sale": "$150.00",
+            "Around The World Bundle": "$220.00",
+            "Travel Essentials Deck": "$60.00",
+            "Around The World Bundle Sale": "$190.00",
+            "90s And 00s Cartoons Deck": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751494335378,

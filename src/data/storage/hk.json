@@ -89111,6 +89111,23 @@
     "history": [
       [
         {
+          "timestamp": 1751951669852,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Airbus A350-1000": "HK$ 32.00",
+            "Robin DR400": "HK$ 8.00",
+            "Boeing 777F": "HK$ 18.00",
+            "Airbus A319": "HK$ 18.00",
+            "Antares 21E": "HK$ 8.00",
+            "ASK 21": "HK$ 8.00",
+            "Airbus A321": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00",
+            "Global scenery - 1 month": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1751904962371,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
