@@ -61686,14 +61686,22 @@
   "6743487416": {
     "name": "黃金礦工 - 手錶遊戲 經典複刻",
     "maxPriceInfo": {
-      "price": 0.69,
-      "formattedPrice": "USD 0.69"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.59,
       "formattedPrice": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751973117115,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750266783708,
@@ -68450,6 +68458,27 @@
             "Mystic Mayhem Emoji Pack": "USD 1.99",
             "Mystic Mayhem Card Back": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6478639011": {
+    "name": "Subnautica",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1751973117115,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
         }
       ]
     ]

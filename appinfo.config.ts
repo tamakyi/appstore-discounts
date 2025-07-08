@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6478639011,
+    name: {
+      hk: 'Subnautica',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1431466900,
     name: {
       mo: 'Word Root Dictionary',
