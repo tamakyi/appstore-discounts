@@ -53469,6 +53469,23 @@
     "history": [
       [
         {
+          "timestamp": 1751977579483,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "UPGRADE PRO": "HK$ 53.00",
+            "FUJI SERIES FILM": "HK$ 38.00",
+            "KODAK SERIES FILM": "HK$ 48.00",
+            "WEDDING SERIES FILM": "HK$ 38.00",
+            "RETRO SERIES FILM": "HK$ 38.00",
+            "IU SERIES FILM": "HK$ 38.00",
+            "LOMO SERIES": "HK$ 38.00",
+            "UPGRADE PRO VERSION": "HK$ 488.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751811032625,
           "price": 32,
           "formattedPrice": "HK$ 32.00",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-07-08T03:37:00.421Z</updated>
+    <updated>2025-07-08T12:48:19.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-08T03:37:00.423Z</updated>
+        <updated>2025-07-08T12:48:19.012Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkTue, 08 Jul 2025 03:37:00 GMT</id>
+        <id>rankinghkTue, 08 Jul 2025 12:48:19 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-08T03:37:00.423Z</updated>
+        <updated>2025-07-08T12:48:19.012Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1204</b>
+        <b>1208</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1003</b>
+        <b>1007</b>
       </td>
       <td>
         <b>33</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1112</b>
+        <b>1116</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>933</b>
+        <b>937</b>
       </td>
       <td>
         <b>29</b>
@@ -152,6 +152,29 @@ feedId:157008141708743680+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id1436429074">FILCA - SLR Film Camera</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>UPGRADE PRO</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>
@@ -172,7 +195,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id430270438">Astro Gold</a>
@@ -189,7 +212,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id583922375">myLightMeter PRO</a>
@@ -206,7 +229,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id823869162">SimplePlanes</a>
@@ -223,7 +246,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
@@ -240,7 +263,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -257,7 +280,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id983143183">夢幻怪獸</a>
@@ -274,7 +297,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id994157520">1942 Pacific Front Premium</a>
@@ -291,7 +314,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1041260001">FINAL FANTASY Ⅸ</a>
@@ -308,7 +331,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1195035357">地牢防禦 : 勇士的侵入</a>
@@ -325,7 +348,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1264608487">Driving Zone: Germany Pro</a>
@@ -342,7 +365,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1271620263">ICEY</a>
@@ -359,7 +382,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1380582804">手機帝國</a>
@@ -376,7 +399,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1435461053">This Is the Police</a>
@@ -387,29 +410,6 @@ feedId:157008141708743680+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/hk/app/id1436429074">FILCA - SLR Film Camera</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買項目</span><ol>
-              <li>
-                <i>UPGRADE PRO</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -894,6 +894,89 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FILCA - SLR Film Camera]]></title>
+        <id>FILCA - SLR Film Camera-hk-1751977579483</id>
+        <link href="https://apps.apple.com/hk/app/filca-slr-film-camera/id1436429074?uo=4"/>
+        <updated>2025-07-08T12:26:19.483Z</updated>
+        <summary type="html"><![CDATA[UPGRADE PRO: HK$ 288.00 → HK$ 53.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/filca-slr-film-camera/id1436429074?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/ae/12/cbae125f-00d8-4adf-a035-2081a5c21ab5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>UPGRADE PRO：</strong><span>HK$ 288.00</span> → <b>
+  <strong>HK$ 53.00</strong>
+</b><span>[HK$ 53.00 ~ HK$ 288.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 32.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    UPGRADE PRO：<b>HK$ 53.00</b>
+  </li><li>
+    FUJI SERIES FILM：<b>HK$ 38.00</b>
+  </li><li>
+    KODAK SERIES FILM：<b>HK$ 48.00</b>
+  </li><li>
+    WEDDING SERIES FILM：<b>HK$ 38.00</b>
+  </li><li>
+    RETRO SERIES FILM：<b>HK$ 38.00</b>
+  </li><li>
+    IU SERIES FILM：<b>HK$ 38.00</b>
+  </li><li>
+    LOMO SERIES：<b>HK$ 38.00</b>
+  </li><li>
+    UPGRADE PRO VERSION：<b>HK$ 488.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Filca 是一款單反膠卷相機。
+35種膠卷濾鏡和電影效果讓您的照片栩栩如生。
+
+@veteranUser
+"沒有Filca，你只是在收集時刻，
+有了Filca，你在保存記憶。"
+
+使用Filca的專家級手動控制精通您的拍攝。
+
+■ 手動模式下的快門速度、ISO、白平衡控制
+■ 來自業界領導者如Kodak、Fuji、Agfa的35mm膠卷濾鏡
+
+Filca旨在優化您的快照體驗。
+非常適合拍攝人物、自拍、夜景以及捕捉日常生活的微妙美麗。
+應用我們的濾鏡，以實現真正的模擬膠片外觀。
+
+主要特性：
+
+帶35mm膠卷濾鏡的自動模式相機
+手動模式（曝光和對焦）
+對快門速度、ISO的完全控制
+各種寬高比：4:3、3:2、16:9、1:1
+數字變焦可放大至8倍
+手動對焦控制（微距、風景）
+來自Fuji、Kodak、Agfa的35mm膠卷濾鏡（包括黑白濾鏡）
+膠片顆粒效果
+膠片日期打印效果
+光學圖像穩定
+低功耗模式
+自拍模式
+EXIF數據存儲（包括位置數據）
+人像增強
+全分辨率照片
+定時器和閃光燈功能
+網格模式視圖
+專業特性：
+
+白平衡調整功能
+日期打印功能
+在Instagram上使用#filca分享您的照片，我們期待展示您的作品。
+關注我們的Instagram: https://www.instagram.com/filca.app/
+
+使用條款：https://han.gl/HCCwV
+隱私政策：https://han.gl/Wclkw
+
+讓我們與Filca一起提升您的攝影旅程。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ae/5a/0fae5a63-e3d7-35bf-fa70-c3aa442b4975/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/86/91/bb869155-de4e-528a-1e6f-6a08986c65f3/mzl.trctbulf.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/54/7f/fd547f0a-d8ca-5df0-2215-6a600bebd576/mzl.jkpydgtk.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/1b/c3/9e1bc308-ff88-a45a-9151-22cf10e581aa/mzl.iuujtrpe.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/92/39/9c9239fd-ec3d-cb12-161e-e85fa660d723/mzl.bunfhsqq.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/62/15/7762157d-28cc-3871-bd0e-53f6789d8c86/mzl.tueratuw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ad/da/b8adda13-13d6-1ab5-cb9b-12e847d6d3b4/mzl.xuagyzrc.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/13/47/4113470f-bea4-4ff8-eb89-bb7f1bf256b1/mzl.xgdowtok.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/3e/df/3a3edf46-1eb1-146d-46a8-f1fccd619a74/mzl.pmxuzxfw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/d2/54/37d25435-2d99-fb29-0428-8f5a813b4509/mzl.rtuimiiz.jpg/406x228bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全民RPG：重啟]]></title>
