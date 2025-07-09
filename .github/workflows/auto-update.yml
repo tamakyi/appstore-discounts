@@ -40,9 +40,3 @@ jobs:
           git config --global user.name "tamakyi"
           git add .
           git commit -m 'chore: automatic update of GitHub workflow'
-
-      - name: git push
-        if: steps.commit_msg.outputs.check_result == 'success'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PUBLISH_TOKEN }}
