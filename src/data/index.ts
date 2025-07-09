@@ -1,7 +1,7 @@
 import './i18n' // NOTE initial i18n
 import 'dotenv/config'
 import { regions } from 'appinfo.config'
-import { getRegionAppTopInfo, getRegionAppInfo } from './scrape'
+import { getRegionAppInfo } from './scrape'
 import { getStorageAppInfo, setStorageAppInfo } from './storage'
 import calculateLatestRegionStorageAppInfoAndRegionDiscountsInfo from './calculate'
 import updateFeeds from './rss'
@@ -13,8 +13,7 @@ import updateAppInfoConfig from './config'
 
 async function controller() {
   start('controller')
-  const regionAppTopInfo = await getRegionAppTopInfo(regions)
-  const appConfig = updateAppInfoConfig(regionAppTopInfo)
+  const appConfig = updateAppInfoConfig()
   const appIds = appConfig
     .filter((item) => item.allowNotification !== false)
     .map((item) => item.id) /* .slice(0, 2) */

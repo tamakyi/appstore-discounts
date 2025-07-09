@@ -28,29 +28,12 @@ function updateImpl(appConfig: AppConfig[]) {
   writeFileSync(filepath, newContent, { encoding: contentEncoding })
 }
 
-export default function updateAppInfoConfig(
-  regionAppTopInfo: Partial<RegionAppTopInfo>,
-) {
+export default function updateAppInfoConfig() {
   start('updateAppInfoConfig')
 
   const ids = oldAppConfig.map((item) => `${item.id}`)
 
   const idNameMap: Record<string, Partial<Record<Region, string>>> = {}
-
-  Object.entries(regionAppTopInfo).forEach(([region, appTopInfo]) => {
-    appTopInfo.forEach(({ id, name }) => {
-      if (ids.includes(id)) return
-      const item = idNameMap[id]
-
-      if (item) {
-        item[region] = name
-      } else {
-        idNameMap[id] = {
-          [region]: name,
-        }
-      }
-    })
-  })
 
   if (isEmpty(idNameMap)) {
     end('updateAppInfoConfig')

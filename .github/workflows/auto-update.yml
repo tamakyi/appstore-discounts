@@ -36,8 +36,8 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git config --global user.email "eyelly.wu@gmail.com"
-          git config --global user.name "GitHub Workflow"
+          git config --global user.email "akakari@vip.qq.com"
+          git config --global user.name "tamakyi"
           git add .
           git commit -m 'chore: automatic update of GitHub workflow'
 
