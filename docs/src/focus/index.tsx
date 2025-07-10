@@ -30,7 +30,7 @@ export default function Focus(props) {
       const item: any = {
         index: appConfig.length - index,
         appId: getDeleteContent(appId + '', showDelete),
-        addType: addType === 'auto' ? t('自动') : t('手动'),
+        addType: addType === 'manual' ? t('手动') : t('自动'),
       }
       regions.forEach((region) => {
         const storageAppInfoObj = regionStorageAppInfo[region] || {}
