@@ -10,7 +10,7 @@ declare global {
       | Partial<Record<Region, string>>
       | [string, Partial<Record<Region, string>>]
     allowNotification?: boolean
-    addType?: 'manual' | 'auto'
+    addType?: 'manual'
   }
 
   type ResponseResult = {
