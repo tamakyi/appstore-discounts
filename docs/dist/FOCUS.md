@@ -5,5 +5,5 @@ So far, we've covered `6` `Countries or Regions` and  `2` `Apps` <br />Push noti
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2|1067198688|Automatic|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|
-|1|505367096|Automatic|世界迷雾|世界迷霧|世界迷霧|世界迷霧|Fog of World|Fog of World|
+|2|1067198688|Manual|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|
+|1|505367096|Manual|世界迷雾|世界迷霧|世界迷霧|世界迷霧|Fog of World|Fog of World|

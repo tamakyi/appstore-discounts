@@ -46,12 +46,12 @@
 
 |编码|国家或地区|RSS 源|
 |:-|:-|:-|
-|cn|中国大陆|https://raw.githubusercontents.com/tamakyi/appstore-discounts/main/rss/cn.xml|
-|hk|中国香港|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/hk.xml|
-|mo|中国澳门|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/mo.xml|
-|tw|中国台湾|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/tw.xml|
-|us|美国|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/us.xml|
-|tr|土耳其|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/tr.xml|
+|cn|Mainland China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/cn.xml|
+|hk|Hong Kong, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/hk.xml|
+|mo|Macao, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/mo.xml|
+|tw|Taiwan, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tw.xml|
+|us|United States|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/us.xml|
+|tr|Türkiye|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tr.xml|
 
 ## Telegram
 点击 [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
