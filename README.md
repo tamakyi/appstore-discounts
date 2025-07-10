@@ -59,12 +59,12 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
 
 |Code|Country or Region|RSS  Source|
 |:-|:-|:-|
-|cn|Mainland China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/cn.xml|
-|hk|Hong Kong, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/hk.xml|
-|mo|Macao, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/mo.xml|
-|tw|Taiwan, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tw.xml|
-|us|United States|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/us.xml|
-|tr|Türkiye|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tr.xml|
+|cn|Mainland China|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/cn.xml|
+|hk|Hong Kong, China|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/hk.xml|
+|mo|Macao, China|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/mo.xml|
+|tw|Taiwan, China|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/tw.xml|
+|us|United States|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/us.xml|
+|tr|Türkiye|https://raw.githubusercontent.com/tamakyi/appstore-discounts/main/rss/tr.xml|
 
 ## Telegram
 Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel")  to Subscribe
