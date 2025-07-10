@@ -70,12 +70,12 @@ export const latestAppConfig: AppConfig[] = [
   {
     id: 1067198688,
     name: '彩云天气pro',
-    addType: 'auto',
+    addType: 'manual',
     allowNotification: true,
   },
   { id: 505367096,
     name: '世界迷雾',
-    addType: 'auto',
+    addType: 'manual',
     allowNotification: true,
    },
 ]
