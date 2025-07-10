@@ -1,4 +1,25 @@
 {
+  "505367096": {
+    "name": "世界迷雾",
+    "maxPriceInfo": {
+      "price": 198,
+      "formattedPrice": "¥198.00"
+    },
+    "minPriceInfo": {
+      "price": 198,
+      "formattedPrice": "¥198.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752112503736,
+          "price": 198,
+          "formattedPrice": "¥198.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1067198688": {
     "name": "彩云天气Pro",
     "maxPriceInfo": {

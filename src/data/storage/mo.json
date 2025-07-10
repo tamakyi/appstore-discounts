@@ -1,4 +1,25 @@
 {
+  "505367096": {
+    "name": "世界迷霧",
+    "maxPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "USD 24.99"
+    },
+    "minPriceInfo": {
+      "price": 24.99,
+      "formattedPrice": "USD 24.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752112503736,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1067198688": {
     "name": "彩云天气Pro",
     "maxPriceInfo": {
