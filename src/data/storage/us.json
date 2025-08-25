@@ -61,6 +61,22 @@
     "history": [
       [
         {
+          "timestamp": 1756142402006,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "50 Conversations": "$0.99",
+            "150 Conversations": "$2.99",
+            "250 Conversations": "$4.99",
+            "500 Conversations": "$9.99",
+            "1-Year SVIP": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754598617553,
           "price": 14.99,
           "formattedPrice": "$14.99",
