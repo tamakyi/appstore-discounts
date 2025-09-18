@@ -63,6 +63,25 @@
     "history": [
       [
         {
+          "timestamp": 1758223117281,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "連續包年 SVIP": "HK$ 98.00",
+            "連續包季 SVIP": "HK$ 32.00",
+            "活動特惠季度 SVIP": "HK$ 22.00",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "HK$ 98.00",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "HK$ 98.00",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "HK$ 98.00",
+            "SVIP特惠 (買一年送半年)": "HK$ 98.00",
+            "SVIP特惠 (買兩年送一年)": "HK$ 188.00",
+            "雨季特惠 100 天 SVIP": "HK$ 22.00",
+            "季度SVIP": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758147575136,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
