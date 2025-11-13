@@ -6,11 +6,6 @@
     "auditLog": "logs/.8756c9b35ca51f1d443c48246c7aadc5092870fc-audit.json",
     "files": [
         {
-            "date": 1762566711351,
-            "name": "logs/scrapeless-2025-11-08.log",
-            "hash": "7340dc4494b3a6ebda61c0352165d595d0f0b2749d47ddffebbaadd64bc860c9"
-        },
-        {
             "date": 1762653747639,
             "name": "logs/scrapeless-2025-11-09.log",
             "hash": "32646ef69c3cded8de1b6fa0154a0218d1547a9bf45a29d91cab2f772b3c5b46"
@@ -29,6 +24,11 @@
             "date": 1762912749961,
             "name": "logs/scrapeless-2025-11-12.log",
             "hash": "4d004f9fdc833bfa2a81c6cde5c856aca2f3fa2e13c3d01237e94419b7c0c085"
+        },
+        {
+            "date": 1762999261710,
+            "name": "logs/scrapeless-2025-11-13.log",
+            "hash": "0ab0f515c09687845383ea513db5ec3d2cb8b730c8ab4ae5b54c6c4b6be1a8b5"
         }
     ],
     "hashType": "sha256"
