@@ -23,8 +23,8 @@
   "1067198688": {
     "name": "彩云天气Pro",
     "maxPriceInfo": {
-      "price": 699.99,
-      "formattedPrice": "₺699,99",
+      "price": 799.99,
+      "formattedPrice": "₺799,99",
       "SVIP auto-renew annually": "₺599,99",
       "SVIP auto-renew yearly": "₺399,99",
       "SVIP auto-renew quarterly": "₺179,99",
@@ -51,6 +51,14 @@
       "1-Year SVIP": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763344844655,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762194837745,
